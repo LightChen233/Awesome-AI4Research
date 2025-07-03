@@ -1,18 +1,18 @@
 # Awesome-AI4Research
 
-[![arXiv](https://img.shields.io/badge/arXiv-AI4Research-b31b1b.svg)](https://arxiv.org/pdf/xxx) 
-[![Paper](https://img.shields.io/badge/Paper-944-green.svg)](https://github.com//LightChen233/Awesome-AI4Research)
+[![arXiv](https://img.shields.io/badge/arXiv-AI4Research-b31b1b.svg)](https://arxiv.org/abs/2507.01903) 
+[![Paper](https://img.shields.io/badge/Paper-950-green.svg)](https://github.com//LightChen233/Awesome-AI4Research)
 [![Last Commit](https://img.shields.io/github/last-commit/LightChen233/Awesome-AI4Research)](https://github.com/LightChen233/Awesome-AI4Research)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 
 
 
 ## 🔥 News
-- **2025.07**: 🎉🎉🎉 We have publiced a survey paper titled "[AI4Research: A Survey of Artificial Intelligence for Scientific Research](https://arxiv.org/pdf/xxx)". Please feel free to cite or open pull requests for your awesome studies.
+- **2025.07**: 🎉🎉🎉 We have publiced a survey paper titled "[AI4Research: A Survey of Artificial Intelligence for Scientific Research](https://arxiv.org/abs/2507.01903)". Please feel free to cite or open pull requests for your awesome studies.
 
 ## 🌟 Introduction
 
-Welcome to the repository associated with our survey paper, "AI4Research: A Survey of Artificial Intelligence for Scientific Research". This repository contains **resources and updates** related to our ongoing AI4Research exploration. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/pdf/xxx).
+Welcome to the repository associated with our survey paper, "AI4Research: A Survey of Artificial Intelligence for Scientific Research". This repository contains **resources and updates** related to our ongoing AI4Research exploration. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/abs/2507.01903).
 
 Recent advancements in artificial intelligence (AI), particularly in large language models (LLMs) such as OpenAI-o1 and DeepSeek-R1, have demonstrated remarkable capabilities in complex domains such as logical reasoning and experimental coding. Motivated by these advancements, numerous studies have explored the application of AI in the innovation process, particularly in the context of scientific research.
 
