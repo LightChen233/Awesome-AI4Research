@@ -68,15 +68,26 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 ---
 
-
-<h2 id="scientific-comprehension">1. AI for Scientific Comprehension</h2>
-
+<h2 id="ai-for-scientific-comprehension">1. AI for Scientific Comprehension</h2>
+<img src="./assets/images/scientific-comprehension.png" style="width: 580pt">
 
 <h3 id="textual-scientific-comprehension">1.1 Textual Scientific Comprehension</h3>
-<img src="./assets/images/scientific-comprehension.png" style="width: 580pt">
+<ul>
+<li><i><b>Open-retrieval conversational question answering</b></i>, Qu et al., <img src="https://img.shields.io/badge/SIGIR-2020-green" alt="SIGIR Badge"></li>
+<li><i><b>A non-factoid question-answering taxonomy</b></i>, Bolotova et al., <img src="https://img.shields.io/badge/SIGIR-2022-green" alt="SIGIR Badge"></li>
+<li><i><b>How Well Do Large Language Models Extract Keywords? A Systematic Evaluation on Scientific Corpora</b></i>, Mansour et al., <a href="https://aclanthology.org/2025.aisd-main.2/" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.05-blue" alt="PDF Badge"></a></li>
+</ul>
+
 <h4 id="semi-automatic-scientific-comprehension">1.1.1 Semi-Automatic Scientific Comprehension</h4>
+<ul>
+<li><i><b>Scholarchemqa: Unveiling the power of language models in chemical research question answering</b></i>, Chen et al., <a href="https://arxiv.org/abs/2407.16931" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
+<li><i><b>Evaluating and Training Long-Context Large Language Models for Question Answering on Scientific Papers</b></i>, Hilgert et al., <a href="https://aclanthology.org/2024.customnlp4u-1.17/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.11-blue" alt="PDF Badge"></a></li>
+<li><i><b>Are plain language summaries more readable than scientific abstracts? Evidence from six biomedical and life sciences journals</b></i>, Wen et al., <img src="https://img.shields.io/badge/Public Understanding of Science-2025-green" alt="Public Understanding of Science Badge"></li>
+</ul>
+
 <b>Human-Guided Scientific Comprehension</b>
 <ul>
+<li><i><b>Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog</b></i>, Qin et al., <a href="https://aclanthology.org/2020.acl-main.565/" target="_blank"><img src="https://img.shields.io/badge/PDF-2020.07-blue" alt="PDF Badge"></a></li>
 <li><i><b>Clam: Selective clarification for ambiguous questions with generative language models</b></i>, Kuhn et al., <a href="https://arxiv.org/abs/2212.07769" target="_blank"><img src="https://img.shields.io/badge/arXiv-2022.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>Clarify when necessary: Resolving ambiguity through interaction with lms</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2311.09469" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.11-red" alt="arXiv Badge"></a></li>
 <li><i><b>Empowering language models with active inquiry for deeper understanding</b></i>, Pang et al., <a href="https://arxiv.org/abs/2402.03719" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.02-red" alt="arXiv Badge"></a></li>
@@ -88,10 +99,10 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <b>Tool-Augmented Scientific Comprehension</b>
 <ul>
 <li><i><b>CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding</b></i>, Wright et al., <img src="https://img.shields.io/badge/ACL Findings-2021-green" alt="ACL Findings Badge"></li>
-<li><i><b>Scienceqa: A novel resource for question answering on scholarly articles</b></i>, Saikh et al., <img src="https://img.shields.io/badge/Other Source-2022.07-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Human and technological infrastructures of fact-checking</b></i>, Juneja et al., <img src="https://img.shields.io/badge/Other Source-2022.11-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Paperqa: Retrieval-augmented generative agent for scientific research</b></i>, Lala et al., <a href="https://arxiv.org/abs/2312.07559" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.12-red" alt="arXiv Badge"></a></li>
-<li><i><b>Efficacy analysis of online artificial intelligence fact-checking tools</b></i>, Hartley et al., <img src="https://img.shields.io/badge/Other Source-2024.04-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Scienceqa: A novel resource for question answering on scholarly articles</b></i>, Saikh et al., <img src="https://img.shields.io/badge/International Journal on Digital Libraries-2022-green" alt="International Journal on Digital Libraries Badge"></li>
+<li><i><b>Human and technological infrastructures of fact-checking</b></i>, Juneja et al., <img src="https://img.shields.io/badge/Proceedings of the ACM on Human-Computer Interaction-2022-green" alt="Proceedings of the ACM on Human-Computer Interaction Badge"></li>
+<li><i><b>Paperqa: Retrieval-augmented generative agent for scientific research</b></i>, L{\'a}la et al., <a href="https://arxiv.org/abs/2312.07559" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.12-red" alt="arXiv Badge"></a></li>
+<li><i><b>Efficacy analysis of online artificial intelligence fact-checking tools</b></i>, Hartley et al., <img src="https://img.shields.io/badge/The International Review of Information Ethics-2024-green" alt="The International Review of Information Ethics Badge"></li>
 <li><i><b>Language agents achieve superhuman synthesis of scientific knowledge</b></i>, Skarlinski et al., <a href="https://arxiv.org/abs/2409.13740" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
 <li><i><b>Graphusion: a RAG framework for Knowledge Graph Construction with a global perspective</b></i>, Yang et al., <a href="https://arxiv.org/abs/2410.17600" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>SciAgent: Tool-augmented Language Models for Scientific Reasoning</b></i>, Ma et al., <a href="https://aclanthology.org/2024.emnlp-main.880/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.11-blue" alt="PDF Badge"></a></li>
@@ -107,9 +118,9 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Boolq: Exploring the surprising difficulty of natural yes/no questions</b></i>, Clark et al., <a href="https://arxiv.org/abs/1905.10044" target="_blank"><img src="https://img.shields.io/badge/arXiv-2019.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>SciBERT: A Pretrained Language Model for Scientific Text</b></i>, Beltagy et al., <a href="https://aclanthology.org/D19-1371/" target="_blank"><img src="https://img.shields.io/badge/PDF-2019.11-blue" alt="PDF Badge"></a></li>
 <li><i><b>CoQUAD: a COVID-19 question answering dataset system, facilitating research, benchmarking, and practice</b></i>, Raza et al., <img src="https://img.shields.io/badge/BMC bioinformatics-2022-green" alt="BMC bioinformatics Badge"></li>
-<li><i><b>Quaser: Question answering with scalable extractive rationalization</b></i>, Ghoshal et al., <img src="https://img.shields.io/badge/Other Source-2022.07-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Spaceqa: Answering questions about the design of space missions and space craft concepts</b></i>, Garcia-Silva et al., <img src="https://img.shields.io/badge/Other Source-2022.07-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>What if: Generating code to answer simulation questions in chemistry texts</b></i>, Peretz et al., <img src="https://img.shields.io/badge/Other Source-2023.07-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Quaser: Question answering with scalable extractive rationalization</b></i>, Ghoshal et al., <img src="https://img.shields.io/badge/SIGIR-2022-green" alt="SIGIR Badge"></li>
+<li><i><b>Spaceqa: Answering questions about the design of space missions and space craft concepts</b></i>, Garcia-Silva et al., <img src="https://img.shields.io/badge/SIGIR-2022-green" alt="SIGIR Badge"></li>
+<li><i><b>What if: Generating code to answer simulation questions in chemistry texts</b></i>, Peretz et al., <img src="https://img.shields.io/badge/SIGIR-2023-green" alt="SIGIR Badge"></li>
 <li><i><b>Biomedlm: A 2.7 b parameter language model trained on biomedical text</b></i>, Bolton et al., <a href="https://arxiv.org/abs/2403.18421" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>Scifibench: Benchmarking large multimodal models for scientific figure interpretation</b></i>, Roberts et al., <a href="https://arxiv.org/abs/2405.08807" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Scholarchemqa: Unveiling the power of language models in chemical research question answering</b></i>, Chen et al., <a href="https://arxiv.org/abs/2407.16931" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
@@ -123,15 +134,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>A survey on transformer context extension: Approaches and evaluation</b></i>, Liu et al., <a href="https://arxiv.org/abs/2503.13299" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<ul>
-<li><i><b>Scholarchemqa: Unveiling the power of language models in chemical research question answering</b></i>, Chen et al., <a href="https://arxiv.org/abs/2407.16931" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
-<li><i><b>Evaluating and Training Long-Context Large Language Models for Question Answering on Scientific Papers</b></i>, Hilgert et al., <a href="https://aclanthology.org/2024.customnlp4u-1.17/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.11-blue" alt="PDF Badge"></a></li>
-<li><i><b>Are plain language summaries more readable than scientific abstracts? Evidence from six biomedical and life sciences journals</b></i>, Wen et al., <img src="https://img.shields.io/badge/Public Understanding of Science-2025-green" alt="Public Understanding of Science Badge"></li>
-</ul>
-
 <h4 id="full-automatic-scientific-comprehension">1.1.2 Full-Automatic Scientific Comprehension</h4>
-</ul>
-
 <b>Summarization-guided Automatic Scientific Comprehension</b>
 <ul>
 <li><i><b>Straight from the scientist's mouth—plain language summaries promote laypeople's comprehension and knowledge acquisition when reading about individual research findings in psychology</b></i>, Kerwer et al., <img src="https://img.shields.io/badge/Collabra: Psychology-2021-green" alt="Collabra: Psychology Badge"></li>
@@ -154,20 +157,16 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Introspective Growth: Automatically Advancing LLM Expertise in Technology Judgment</b></i>, Wu et al., <a href="https://arxiv.org/abs/2505.12452" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
-</ul>
-
-<ul>
-<li><i><b>Open-retrieval conversational question answering</b></i>, Qu et al., <img src="https://img.shields.io/badge/Other Source-2020.07-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>A non-factoid question-answering taxonomy</b></i>, Bolotova et al., <img src="https://img.shields.io/badge/Other Source-2022.07-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>How Well Do Large Language Models Extract Keywords? A Systematic Evaluation on Scientific Corpora</b></i>, Mansour et al., <a href="https://aclanthology.org/2025.aisd-main.2/" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.05-blue" alt="PDF Badge"></a></li>
-</ul>
-
 
 
 <h3 id="table-chart-scientific-comprehension">1.2 Table & Chart Scientific Comprehension</h3>
-<h4 id="table-understanding">1.2.3 Table Understanding</h4>
+<ul>
+<li><i><b>How well do large language models understand tables in materials science?</b></i>, Circi et al., <a href="https://link.springer.com/article/10.1007/s40192-024-00362-6" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.07-blue" alt="PDF Badge"></a></li>
+<li><i><b>ArxivDIGESTables: Synthesizing Scientific Literature into Tables using Language Models</b></i>, Newman et al., <a href="https://aclanthology.org/2024.emnlp-main.538/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.11-blue" alt="PDF Badge"></a></li>
+<li><i><b>Sciverse: Unveiling the knowledge comprehension and visual reasoning of lmms on multi-modal scientific problems</b></i>, Guo et al., <a href="https://arxiv.org/abs/2503.10627" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 </ul>
 
+<h4 id="table-understanding">1.2.1 Table Understanding</h4>
 <ul>
 <li><i><b>A survey on table-and-text hybridqa: Concepts, methods, challenges and future directions</b></i>, Wang et al., <a href="https://arxiv.org/abs/2212.13465" target="_blank"><img src="https://img.shields.io/badge/arXiv-2022.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding</b></i>, Wang et al., <a href="https://openreview.net/forum?id=4L0xnS4GQM" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.01-blue" alt="PDF Badge"></a></li>
@@ -181,9 +180,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Tablebench: A comprehensive and complex benchmark for table question answering</b></i>, Wu et al., <img src="https://img.shields.io/badge/AAAI-2025-green" alt="AAAI Badge"></li>
 </ul>
 
-<h4 id="chart-understanding">1.2.4 Chart Understanding</h4>
-</ul>
-
+<h4 id="chart-understanding">1.2.2 Chart Understanding</h4>
 <ul>
 <li><i><b>Chartassisstant: A universal chart multimodal language model via chart-to-table pre-training and multitask instruction tuning</b></i>, Meng et al., <a href="https://arxiv.org/abs/2401.02384" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers</b></i>, Pramanick et al., <a href="https://openreview.net/forum?id=h3lddsY5nf" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.07-blue" alt="PDF Badge"></a></li>
@@ -198,24 +195,27 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework</b></i>, Yang et al., <a href="https://arxiv.org/abs/2506.02454" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
 </ul>
 
+<h2 id="ai-for-academic-survey">2. AI for Academic Survey</h2>
+<img src="./assets/images/academic-survey.png" style="width: 580pt"><ul>
+<li><i><b>Pre-writing: The stage of discovery in the writing process</b></i>, Rohman et al., <img src="https://img.shields.io/badge/College Composition \& Communication-1965-green" alt="College Composition \& Communication Badge"></li>
 </ul>
 
-<ul>
-<li><i><b>How well do large language models understand tables in materials science?</b></i>, Circi et al., <a href="https://link.springer.com/article/10.1007/s40192-024-00362-6" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.07-blue" alt="PDF Badge"></a></li>
-<li><i><b>ArxivDIGESTables: Synthesizing Scientific Literature into Tables using Language Models</b></i>, Newman et al., <a href="https://aclanthology.org/2024.emnlp-main.538/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.11-blue" alt="PDF Badge"></a></li>
-<li><i><b>Sciverse: Unveiling the knowledge comprehension and visual reasoning of lmms on multi-modal scientific problems</b></i>, Guo et al., <a href="https://arxiv.org/abs/2503.10627" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
-</ul>
-<h2 id="academic-survey">2. AI for Academic Survey</h2>
 
 
 <h3 id="related-work-retrieval">2.1 Related Work Retrieval</h3>
-<img src="./assets/images/academic-survey.png" style="width: 580pt">
+<ul>
+<li><i><b>Paper recommender systems: a literature survey</b></i>, Beel et al., <img src="https://img.shields.io/badge/International Journal on Digital Libraries-2016-green" alt="International Journal on Digital Libraries Badge"></li>
+<li><i><b>A Review on Personalized Academic Paper Recommendation.</b></i>, Li et al., <img src="https://img.shields.io/badge/Comput. Inf. Sci.-2019-green" alt="Comput. Inf. Sci. Badge"></li>
+<li><i><b>Insights into relevant knowledge extraction techniques: a comprehensive review</b></i>, Shahid et al., <img src="https://img.shields.io/badge/The Journal of Supercomputing-2020-green" alt="The Journal of Supercomputing Badge"></li>
+<li><i><b>A survey on rag meeting llms: Towards retrieval-augmented large language models</b></i>, Fan et al., <img src="https://img.shields.io/badge/Other Source-2024.08-lightgrey" alt="Other Source Badge"></li>
+</ul>
+
 <b>Semantic-Guided Retrieval</b>
 <ul>
 <li><i><b>Scientific paper recommendation: A survey</b></i>, Bai et al., <img src="https://img.shields.io/badge/Ieee Access-2019-green" alt="Ieee Access Badge"></li>
 <li><i><b>SPLADE v2: Sparse lexical and expansion model for information retrieval</b></i>, Formal et al., <a href="https://arxiv.org/abs/2109.10086" target="_blank"><img src="https://img.shields.io/badge/arXiv-2021.09-red" alt="arXiv Badge"></a></li>
-<li><i><b>Scientific paper recommendation systems: a literature review of recent publications</b></i>, Kreutz et al., <img src="https://img.shields.io/badge/Other Source-2022.10-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Clinical Trial Retrieval via Multi-grained Similarity Learning</b></i>, Luo et al., <img src="https://img.shields.io/badge/Other Source-2024.07-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Scientific paper recommendation systems: a literature review of recent publications</b></i>, Kreutz et al., <img src="https://img.shields.io/badge/International journal on digital libraries-2022-green" alt="International journal on digital libraries Badge"></li>
+<li><i><b>Clinical Trial Retrieval via Multi-grained Similarity Learning</b></i>, Luo et al., <img src="https://img.shields.io/badge/SIGIR-2024-green" alt="SIGIR Badge"></li>
 <li><i><b>Related Work and Citation Text Generation: A Survey</b></i>, Li et al., <a href="https://aclanthology.org/2024.emnlp-main.767/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.11-blue" alt="PDF Badge"></a></li>
 <li><i><b>MIR: Methodology Inspiration Retrieval for Scientific Research Problems</b></i>, Garikaparthi et al., <a href="https://arxiv.org/abs/2506.00249" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
 </ul>
@@ -253,19 +253,14 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>AcademicBrowse: Benchmarking Academic Browse Ability of LLMs</b></i>, Zhou et al., <a href="https://arxiv.org/abs/2506.13784" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<ul>
-<li><i><b>Paper recommender systems: a literature survey</b></i>, Beel et al., <img src="https://img.shields.io/badge/Other Source-2016.07-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>A Review on Personalized Academic Paper Recommendation.</b></i>, Li et al., <img src="https://img.shields.io/badge/Comput. Inf. Sci.-2019-green" alt="Comput. Inf. Sci. Badge"></li>
-<li><i><b>Insights into relevant knowledge extraction techniques: a comprehensive review</b></i>, Shahid et al., <img src="https://img.shields.io/badge/The Journal of Supercomputing-2020-green" alt="The Journal of Supercomputing Badge"></li>
-<li><i><b>A survey on rag meeting llms: Towards retrieval-augmented large language models</b></i>, Fan et al., <img src="https://img.shields.io/badge/Other Source-2024.08-lightgrey" alt="Other Source Badge"></li>
-</ul>
-
 
 
 <h3 id="overview-report-generation">2.2 Overview Report Generation</h3>
-<h4 id="research-roadmap-mapping">2.2.1 Research Roadmap Mapping</h4>
+<ul>
+<li><i><b>Towards automated related work summarization</b></i>, Hoang et al., <img src="https://img.shields.io/badge/Other Source-2010.08-lightgrey" alt="Other Source Badge"></li>
 </ul>
 
+<h4 id="research-roadmap-mapping">2.2.1 Research Roadmap Mapping</h4>
 <ul>
 <li><i><b>Hierarchical catalogue generation for literature review: a benchmark</b></i>, Zhu et al., <a href="https://arxiv.org/abs/2304.03512" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>Assisting in writing wikipedia-like articles from scratch with large language models</b></i>, Shao et al., <a href="https://arxiv.org/abs/2402.14207" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.02-red" alt="arXiv Badge"></a></li>
@@ -282,6 +277,14 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 </ul>
 
 <h4 id="section-level-related-work-generation">2.2.2 Section-level Related Work Generation</h4>
+<ul>
+<li><i><b>Towards automated related work summarization</b></i>, Hoang et al., <img src="https://img.shields.io/badge/Other Source-2010.08-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation</b></i>, Chen et al., <a href="https://aclanthology.org/2021.acl-long.473/" target="_blank"><img src="https://img.shields.io/badge/PDF-2021.08-blue" alt="PDF Badge"></a></li>
+<li><i><b>Target-aware abstractive related work generation with contrastive learning</b></i>, Chen et al., <img src="https://img.shields.io/badge/SIGIR-2022-green" alt="SIGIR Badge"></li>
+<li><i><b>The use of a large language model to create plain language summaries of evidence reviews in healthcare: A feasibility study</b></i>, Ovelman et al., <img src="https://img.shields.io/badge/Cochrane Evidence Synthesis and Methods-2024-green" alt="Cochrane Evidence Synthesis and Methods Badge"></li>
+<li><i><b>Related Work and Citation Text Generation: A Survey</b></i>, Li et al., <a href="https://aclanthology.org/2024.emnlp-main.767/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.11-blue" alt="PDF Badge"></a></li>
+<li><i><b>376 Using a large language model to create lay summaries of clinical study descriptions</b></i>, Kaiser et al., <img src="https://img.shields.io/badge/Journal of Clinical and Translational Science-2025-green" alt="Journal of Clinical and Translational Science Badge"></li>
+<li><i><b>Select, Read, and Write: A Multi-Agent Framework of Full-Text-based Related Work Generation</b></i>, Liu et al., <a href="https://arxiv.org/abs/2505.19647" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
 <b>Extractive Related Work.</b>
@@ -289,7 +292,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Towards automated related work summarization</b></i>, Hoang et al., <img src="https://img.shields.io/badge/Other Source-2010.08-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Automatic generation of related work sections in scientific papers: an optimization approach</b></i>, Hu et al., <img src="https://img.shields.io/badge/EMNLP-2014-green" alt="EMNLP Badge"></li>
 <li><i><b>Neural related work summarization with a joint context-driven attention mechanism</b></i>, Wang et al., <a href="https://arxiv.org/abs/1901.09492" target="_blank"><img src="https://img.shields.io/badge/arXiv-2019.01-red" alt="arXiv Badge"></a></li>
-<li><i><b>Automatic generation of related work through summarizing citations</b></i>, Chen et al., <img src="https://img.shields.io/badge/Other Source-2019.09-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Automatic generation of related work through summarizing citations</b></i>, Chen et al., <img src="https://img.shields.io/badge/Concurrency and Computation: Practice and Experience-2019-green" alt="Concurrency and Computation: Practice and Experience Badge"></li>
 <li><i><b>Toc-rwg: Explore the combination of topic model and citation information for automatic related work generation</b></i>, Wang et al., <img src="https://img.shields.io/badge/Ieee Access-2019-green" alt="Ieee Access Badge"></li>
 <li><i><b>Automatic Related Work Section Generation by Sentence Extraction and Reordering.</b></i>, Deng et al., <img src="https://img.shields.io/badge/Other Source-2021.01-lightgrey" alt="Other Source Badge"></li>
 </ul>
@@ -299,8 +302,8 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Neural related work summarization with a joint context-driven attention mechanism</b></i>, Wang et al., <a href="https://arxiv.org/abs/1901.09492" target="_blank"><img src="https://img.shields.io/badge/arXiv-2019.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>Automated lay language summarization of biomedical scientific reviews</b></i>, Guo et al., <img src="https://img.shields.io/badge/AAAI-2021-green" alt="AAAI Badge"></li>
 <li><i><b>BACO: A background knowledge-and content-based framework for citing sentence generation</b></i>, Ge et al., <img src="https://img.shields.io/badge/ACL-2021-green" alt="ACL Badge"></li>
-<li><i><b>Capturing relations between scientific papers: An abstractive model for related work section generation</b></i>, Chen et al., <img src="https://img.shields.io/badge/Other Source-2021.08-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Target-aware abstractive related work generation with contrastive learning</b></i>, Chen et al., <img src="https://img.shields.io/badge/Other Source-2022.07-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation</b></i>, Chen et al., <a href="https://aclanthology.org/2021.acl-long.473/" target="_blank"><img src="https://img.shields.io/badge/PDF-2021.08-blue" alt="PDF Badge"></a></li>
+<li><i><b>Target-aware abstractive related work generation with contrastive learning</b></i>, Chen et al., <img src="https://img.shields.io/badge/SIGIR-2022-green" alt="SIGIR Badge"></li>
 <li><i><b>Multi-document scientific summarization from a knowledge graph-centric view</b></i>, Wang et al., <a href="https://arxiv.org/abs/2209.04319" target="_blank"><img src="https://img.shields.io/badge/arXiv-2022.09-red" alt="arXiv Badge"></a></li>
 <li><i><b>Controllable citation sentence generation with language models</b></i>, Gu et al., <a href="https://arxiv.org/abs/2211.07066" target="_blank"><img src="https://img.shields.io/badge/arXiv-2022.11-red" alt="arXiv Badge"></a></li>
 <li><i><b>Causal intervention for abstractive related work generation</b></i>, Liu et al., <a href="https://arxiv.org/abs/2305.13685" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
@@ -311,25 +314,13 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Related work and citation text generation: A survey</b></i>, Li et al., <a href="https://arxiv.org/abs/2404.11588" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization</b></i>, Pu et al., <img src="https://img.shields.io/badge/NAACL-2024-green" alt="NAACL Badge"></li>
 <li><i><b>Reinforced Subject-Aware Graph Neural Network for Related Work Generation</b></i>, Yu et al., <img src="https://img.shields.io/badge/Other Source-2024.07-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Disentangling Instructive Information from Ranked Multiple Candidates for Multi-Document Scientific Summarization</b></i>, Wang et al., <img src="https://img.shields.io/badge/Other Source-2024.07-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Disentangling Instructive Information from Ranked Multiple Candidates for Multi-Document Scientific Summarization</b></i>, Wang et al., <img src="https://img.shields.io/badge/SIGIR-2024-green" alt="SIGIR Badge"></li>
 <li><i><b>Toward Related Work Generation with Structure and Novelty Statement</b></i>, Nishimura et al., <img src="https://img.shields.io/badge/Other Source-2024.08-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Estimating Optimal Context Length for Hybrid Retrieval-augmented Multi-document Summarization</b></i>, Pratapa et al., <a href="https://arxiv.org/abs/2504.12972" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>Ask, Retrieve, Summarize: A Modular Pipeline for Scientific Literature Summarization</b></i>, Achkar et al., <a href="https://arxiv.org/abs/2505.16349" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<ul>
-<li><i><b>Towards automated related work summarization</b></i>, Hoang et al., <img src="https://img.shields.io/badge/Other Source-2010.08-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Capturing relations between scientific papers: An abstractive model for related work section generation</b></i>, Chen et al., <img src="https://img.shields.io/badge/Other Source-2021.08-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Target-aware abstractive related work generation with contrastive learning</b></i>, Chen et al., <img src="https://img.shields.io/badge/Other Source-2022.07-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>The use of a large language model to create plain language summaries of evidence reviews in healthcare: A feasibility study</b></i>, Ovelman et al., <img src="https://img.shields.io/badge/Other Source-2024.02-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Related Work and Citation Text Generation: A Survey</b></i>, Li et al., <a href="https://aclanthology.org/2024.emnlp-main.767/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.11-blue" alt="PDF Badge"></a></li>
-<li><i><b>376 Using a large language model to create lay summaries of clinical study descriptions</b></i>, Kaiser et al., <img src="https://img.shields.io/badge/Other Source-2025.04-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Select, Read, and Write: A Multi-Agent Framework of Full-Text-based Related Work Generation</b></i>, Liu et al., <a href="https://arxiv.org/abs/2505.19647" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
-</ul>
-
 <h4 id="document-level-survey-generation">2.2.3 Document-level Survey Generation</h4>
-</ul>
-
 <ul>
 <li><i><b>Analyzing the past to prepare for the future: Writing a literature review</b></i>, Webster et al., <img src="https://img.shields.io/badge/MIS quarterly-2002-green" alt="MIS quarterly Badge"></li>
 <li><i><b>Hierarchical catalogue generation for literature review: a benchmark</b></i>, Zhu et al., <a href="https://arxiv.org/abs/2304.03512" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.04-red" alt="arXiv Badge"></a></li>
@@ -344,30 +335,39 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Autosurvey: Large language models can automatically write surveys</b></i>, Wang et al., <img src="https://img.shields.io/badge/NeurIPS-2024-green" alt="NeurIPS Badge"></li>
 <li><i><b>LAG: LLM agents for Leaderboard Auto Generation on Demanding</b></i>, Wu et al., <a href="https://arxiv.org/abs/2502.18209" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>SurveyX: Academic Survey Automation via Large Language Models</b></i>, Liang et al., <a href="https://arxiv.org/abs/2502.14776" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
-<li><i><b>Automating research synthesis with domain-specific large language model fine-tuning</b></i>, Susnjak et al., <img src="https://img.shields.io/badge/Other Source-2025.03-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Automating research synthesis with domain-specific large language model fine-tuning</b></i>, Susnjak et al., <img src="https://img.shields.io/badge/ACM Transactions on Knowledge Discovery from Data-2025-green" alt="ACM Transactions on Knowledge Discovery from Data Badge"></li>
 <li><i><b>SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</b></i>, Yan et al., <a href="https://arxiv.org/abs/2503.04629" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 </ul>
 
+<h2 id="ai-for-scientific-discovery">3. AI for Scientific Discovery</h2>
+<img src="./assets/images/scientific-discovery.png" style="width: 580pt"><ul>
+<li><i><b>Scientific discovery in the age of artificial intelligence</b></i>, Wang et al., <img src="https://img.shields.io/badge/Nature-2023-green" alt="Nature Badge"></li>
+<li><i><b>Beyond Benchmarking: Automated Capability Discovery via Model Self-Exploration</b></i>, Lu et al., <img src="https://img.shields.io/badge/Other Source-2024.10-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>AIRUS: a simple workflow for AI-assisted exploration of scientific data</b></i>, Harris et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
+<li><i><b>On the Rise of New Mathematical Spaces and Towards AI-Driven Scientific Discovery</b></i>, Raeini et al., <img src="https://img.shields.io/badge/Available at SSRN-2025-green" alt="Available at SSRN Badge"></li>
+<li><i><b>From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models</b></i>, He et al., <a href="https://arxiv.org/abs/2505.21935" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>AI-Driven Discovery: The Transformative Impact of Machine Learning on Research and Development</b></i>, Roy et al., <img src="https://img.shields.io/badge/Other Source-2025.06-lightgrey" alt="Other Source Badge"></li>
 </ul>
 
-<ul>
-<li><i><b>Towards automated related work summarization</b></i>, Hoang et al., <img src="https://img.shields.io/badge/Other Source-2010.08-lightgrey" alt="Other Source Badge"></li>
-</ul>
-
-</ul>
-
-<ul>
-<li><i><b>Pre-writing: The stage of discovery in the writing process</b></i>, Rohman et al., <img src="https://img.shields.io/badge/College Composition & Communication-1965-green" alt="College Composition & Communication Badge"></li>
-</ul>
-
-<h2 id="scientific-discovery">3. AI for Scientific Discovery</h2>
 
 
 <h3 id="idea-mining">3.1 Idea Mining</h3>
-<img src="./assets/images/scientific-discovery.png" style="width: 580pt">
+<ul>
+<li><i><b>Can Large Language Models Unlock Novel Scientific Research Ideas?</b></i>, Kumar et al., <a href="https://arxiv.org/abs/2409.06185" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
+<li><i><b>Can llms generate novel research ideas? a large-scale human study with 100+ nlp researchers</b></i>, Si et al., <a href="https://arxiv.org/abs/2409.04109" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
+<li><i><b>LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research</b></i>, Gu et al., <a href="https://arxiv.org/abs/2412.14141" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
+<li><i><b>Large language models for causal hypothesis generation in science</b></i>, Cohrs et al., <img src="https://img.shields.io/badge/Machine Learning: Science and Technology-2025-green" alt="Machine Learning: Science and Technology Badge"></li>
+<li><i><b>Futuregen: Llm-rag approach to generate the future work of scientific article</b></i>, Azher et al., <a href="https://arxiv.org/abs/2503.16561" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
+<li><i><b>ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition</b></i>, Liu et al., <a href="https://arxiv.org/abs/2503.21248" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
+<li><i><b>Sparks of science: Hypothesis generation using structured paper data</b></i>, O'Neill et al., <a href="https://arxiv.org/abs/2504.12976" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
+<li><i><b>Spark: A System for Scientifically Creative Idea Generation</b></i>, Sanyal et al., <a href="https://arxiv.org/abs/2504.20090" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
+<li><i><b>CHIMERA: A Knowledge Base of Idea Recombination in Scientific Literature</b></i>, Sternlicht et al., <a href="https://arxiv.org/abs/2505.20779" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>Cognitio Emergens: Agency, Dimensions, and Dynamics in Human-AI Knowledge Co-Creation</b></i>, Lin et al., <a href="https://arxiv.org/abs/2505.03105" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+</ul>
+
 <h4 id="idea-mining-from-internal-knowledge">3.1.1 Idea Mining from Internal Knowledge</h4>
 <ul>
-<li><i><b>Ideas are dimes a dozen: Large language models for idea generation in innovation</b></i>, Girotra et al., <img src="https://img.shields.io/badge/Other Source-2023.07-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Ideas are dimes a dozen: Large language models for idea generation in innovation</b></i>, Girotra et al., <img src="https://img.shields.io/badge/The Wharton School Research Paper Forthcoming-2023-green" alt="The Wharton School Research Paper Forthcoming Badge"></li>
 <li><i><b>Prompting Diverse Ideas: Increasing AI Idea Variance</b></i>, Meincke et al., <img src="https://img.shields.io/badge/Other Source-2024.02-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Using Large Language Models for Idea Generation in Innovation</b></i>, Meincke et al., <img src="https://img.shields.io/badge/Other Source-2024.08-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Can llms generate novel research ideas? a large-scale human study with 100+ nlp researchers</b></i>, Si et al., <a href="https://arxiv.org/abs/2409.04109" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
@@ -376,11 +376,10 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations</b></i>, Chen et al., <a href="https://arxiv.org/abs/2503.18865" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>Improving Research Idea Generation Through Data: An Empirical Investigation in Social Science</b></i>, Liu et al., <a href="https://arxiv.org/abs/2505.21396" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Enhance Innovation by Boosting Idea Generation with Large Language Models</b></i>, Haarmann et al., <img src="https://img.shields.io/badge/INFORMS Journal on Computing-2025-green" alt="INFORMS Journal on Computing Badge"></li>
+<li><i><b>The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies</b></i>, Swanson et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
 </ul>
 
 <h4 id="idea-mining-from-external-signal">3.1.2 Idea Mining from External Signal</h4>
-</ul>
-
 <b>Idea Mining from External Knowledge</b>
 <ul>
 <li><i><b>Literature based discovery: models, methods, and trends</b></i>, Henry et al., <img src="https://img.shields.io/badge/Journal of biomedical informatics-2017-green" alt="Journal of biomedical informatics Badge"></li>
@@ -389,9 +388,8 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Large language models meet nlp: A survey</b></i>, Qin et al., <a href="https://arxiv.org/abs/2405.12819" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Position: data-driven discovery with large generative models</b></i>, Majumder et al., <img src="https://img.shields.io/badge/ICML-2024-green" alt="ICML Badge"></li>
 <li><i><b>Generation and human-expert evaluation of interesting research ideas using knowledge graphs and large language models</b></i>, Gu et al., <a href="https://arxiv.org/abs/2405.17044" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>Interesting scientific idea generation using knowledge graphs and llms: Evaluations with 100 research group leaders</b></i>, Gu et al., <a href="https://arxiv.org/abs/2405.17044" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Scimon: Scientific inspiration machines optimized for novelty</b></i>, Wang et al., <img src="https://img.shields.io/badge/ACL-2024-green" alt="ACL Badge"></li>
-<li><i><b>Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning</b></i>, Buehler et al., <img src="https://img.shields.io/badge/Other Source-2024.09-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning</b></i>, Buehler et al., <img src="https://img.shields.io/badge/Machine Learning: Science and Technology-2024-green" alt="Machine Learning: Science and Technology Badge"></li>
 <li><i><b>Literature meets data: A synergistic approach to hypothesis generation</b></i>, Liu et al., <a href="https://arxiv.org/abs/2410.17309" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>Chain of ideas: Revolutionizing research via novel idea development with llm agents</b></i>, Li et al., <a href="https://arxiv.org/abs/2410.13185" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>SciPIP: An LLM-based Scientific Paper Idea Proposer</b></i>, Wang et al., <a href="https://arxiv.org/abs/2410.23166" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
@@ -406,9 +404,8 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>gpt-researcher</b></i>, Assafelovic et al., <a href="https://github.com/assafelovic/gpt-researcher" target="_blank"><img src="https://img.shields.io/badge/PDF-2023.05-blue" alt="PDF Badge"></a></li>
 <li><i><b>Mlagentbench: Evaluating language agents on machine learning experimentation</b></i>, Huang et al., <a href="https://arxiv.org/abs/2310.03302" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>Researchagent: Iterative research idea generation over scientific literature with large language models</b></i>, Baek et al., <a href="https://arxiv.org/abs/2404.07738" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.04-red" alt="arXiv Badge"></a></li>
-<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature-2024-green" alt="Nature Badge"></li>
+<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature Machine Intelligence-2024-green" alt="Nature Machine Intelligence Badge"></li>
 <li><i><b>MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration</b></i>, Ni et al., <a href="https://arxiv.org/abs/2411.08063" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
-<li><i><b>The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation</b></i>, Swanson et al., <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv Badge"></li>
 <li><i><b>Agent laboratory: Using llm agents as research assistants</b></i>, Schmidgall et al., <a href="https://arxiv.org/abs/2501.04227" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>LUMI-lab: a Foundation Model-Driven Autonomous Platform Enabling Discovery of New Ionizable Lipid Designs for mRNA Delivery</b></i>, Cui et al., <img src="https://img.shields.io/badge/BioRxiv-2025-green" alt="BioRxiv Badge"></li>
 <li><i><b>Towards an AI co-scientist</b></i>, Gottweis et al., <a href="https://arxiv.org/abs/2502.18864" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
@@ -416,11 +413,11 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>AgentRxiv: Towards Collaborative Autonomous Research</b></i>, Schmidgall et al., <a href="https://arxiv.org/abs/2503.18102" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>Carl Technical Report</b></i>, Institute et al., <a href="https://drive.google.com/file/d/1iVedOdZDuEdjS4lcm9Z7i8oEDGWfzVJq/view" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.03-blue" alt="PDF Badge"></a></li>
 <li><i><b>Ideasynth: Iterative research idea development through evolving and composing idea facets with literature-grounded feedback</b></i>, Pu et al., <img src="https://img.shields.io/badge/Other Source-2025.04-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>AutoMind: Adaptive Knowledgeable Agent for Automated Data Science</b></i>, Ou et al., <a href="https://arxiv.org/abs/2506.10974" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
+<li><i><b>The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies</b></i>, Swanson et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
 </ul>
 
 <h4 id="idea-mining-from-team-discussion">3.1.3 Idea Mining from Team discussion</h4>
-</ul>
-
 <b>AI-AI Collaboration</b>
 <ul>
 <li><i><b>Large language models for automated open-domain scientific hypotheses discovery</b></i>, Yang et al., <a href="https://arxiv.org/abs/2309.02726" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.09-red" alt="arXiv Badge"></a></li>
@@ -434,13 +431,13 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Two heads are better than one: A multi-agent system has the potential to improve scientific idea generation</b></i>, Su et al., <a href="https://arxiv.org/abs/2410.09403" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>Chain of ideas: Revolutionizing research via novel idea development with llm agents</b></i>, Li et al., <a href="https://arxiv.org/abs/2410.13185" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>Nova: An iterative planning and search approach to enhance novelty and diversity of llm generated ideas</b></i>, Hu et al., <a href="https://arxiv.org/abs/2410.14255" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
-<li><i><b>The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation</b></i>, Swanson et al., <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv Badge"></li>
 <li><i><b>AIGS: Generating Science from AI-Powered Automated Falsification</b></i>, Liu et al., <a href="https://arxiv.org/abs/2411.11910" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
-<li><i><b>Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses</b></i>, Yang et al., <img src="https://img.shields.io/badge/Other Source-2024.12-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses</b></i>, Yang et al., <a href="https://openreview.net/forum?id=X9OfMNNepI" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.01-blue" alt="PDF Badge"></a></li>
 <li><i><b>Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback</b></i>, Yuan et al., <a href="https://arxiv.org/abs/2501.03916" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>Multi-Novelty: Improve the Diversity and Novelty of Contents Generated by Large Language Models via inference-time Multi-Views Brainstorming</b></i>, Lagzian et al., <a href="https://arxiv.org/abs/2502.12700" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample Creation</b></i>, Sinha et al., <a href="https://arxiv.org/abs/2502.19414" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration</b></i>, Pu et al., <a href="https://arxiv.org/abs/2505.15047" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies</b></i>, Swanson et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
 </ul>
 
 <b>Human-AI Collaboration</b>
@@ -452,26 +449,9 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Human creativity in the age of llms: Randomized experiments on divergent and convergent thinking</b></i>, Kumar et al., <img src="https://img.shields.io/badge/Other Source-2025.04-lightgrey" alt="Other Source Badge"></li>
 </ul>
 
-</ul>
-
-<ul>
-<li><i><b>Can Large Language Models Unlock Novel Scientific Research Ideas?</b></i>, Kumar et al., <a href="https://arxiv.org/abs/2409.06185" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
-<li><i><b>Can llms generate novel research ideas? a large-scale human study with 100+ nlp researchers</b></i>, Si et al., <a href="https://arxiv.org/abs/2409.04109" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
-<li><i><b>LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research</b></i>, Gu et al., <a href="https://arxiv.org/abs/2412.14141" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
-<li><i><b>Large language models for causal hypothesis generation in science</b></i>, Cohrs et al., <img src="https://img.shields.io/badge/Other Source-2025.01-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Futuregen: Llm-rag approach to generate the future work of scientific article</b></i>, Azher et al., <a href="https://arxiv.org/abs/2503.16561" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
-<li><i><b>ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition</b></i>, Liu et al., <a href="https://arxiv.org/abs/2503.21248" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
-<li><i><b>Sparks of science: Hypothesis generation using structured paper data</b></i>, O'Neill et al., <a href="https://arxiv.org/abs/2504.12976" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
-<li><i><b>Spark: A System for Scientifically Creative Idea Generation</b></i>, Sanyal et al., <a href="https://arxiv.org/abs/2504.20090" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
-<li><i><b>CHIMERA: A Knowledge Base of Idea Recombination in Scientific Literature</b></i>, Sternlicht et al., <a href="https://arxiv.org/abs/2505.20779" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>Cognitio Emergens: Agency, Dimensions, and Dynamics in Human-AI Knowledge Co-Creation</b></i>, Lin et al., <a href="https://arxiv.org/abs/2505.03105" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
-</ul>
-
 
 
 <h3 id="novelty-significance-assessment">3.2 Novelty & Significance Assessment</h3>
-</ul>
-
 <ul>
 <li><i><b>Does writing with language models reduce content diversity?</b></i>, Padmakumar et al., <a href="https://arxiv.org/abs/2309.05196" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.09-red" alt="arXiv Badge"></a></li>
 <li><i><b>Greater variability in judgements of the value of novel ideas</b></i>, Johnson et al., <img src="https://img.shields.io/badge/Nature-2024-green" alt="Nature Badge"></li>
@@ -495,9 +475,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="theory-analysis">3.3 Theory Analysis</h3>
-<h4 id="scientific-claim-formalization">3.3.4 Scientific Claim Formalization</h4>
-</ul>
-
+<h4 id="scientific-claim-formalization">3.3.1 Scientific Claim Formalization</h4>
 <ul>
 <li><i><b>LF: a foundational higher-order-logic</b></i>, Goodsell et al., <a href="https://arxiv.org/abs/2401.11050" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>Natural Language Hypotheses in Scientific Papers and How to Tame Them: Suggested Steps for Formalizing Complex Scientific Claims</b></i>, Heger et al., <img src="https://img.shields.io/badge/Other Source-2024.06-lightgrey" alt="Other Source Badge"></li>
@@ -509,9 +487,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Valsci: an open-source, self-hostable literature review utility for automated large-batch scientific claim verification using large language models</b></i>, Edelman et al., <img src="https://img.shields.io/badge/BMC bioinformatics-2025-green" alt="BMC bioinformatics Badge"></li>
 </ul>
 
-<h4 id="scientific-evidence-collection">3.3.5 Scientific Evidence Collection</h4>
-</ul>
-
+<h4 id="scientific-evidence-collection">3.3.2 Scientific Evidence Collection</h4>
 <ul>
 <li><i><b>MultiVerS: Improving scientific claim verification with weak supervision and full-document context</b></i>, Wadden et al., <a href="https://arxiv.org/abs/2112.01640" target="_blank"><img src="https://img.shields.io/badge/arXiv-2021.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>Missing counter-evidence renders NLP fact-checking unrealistic for misinformation</b></i>, Glockner et al., <a href="https://arxiv.org/abs/2210.13865" target="_blank"><img src="https://img.shields.io/badge/arXiv-2022.10-red" alt="arXiv Badge"></a></li>
@@ -526,12 +502,10 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>SciClaims: An End-to-End Generative System for Biomedical Claim Analysis</b></i>, Ortega et al., <a href="https://arxiv.org/abs/2503.18526" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<h4 id="scientific-verification-analysis">3.3.6 Scientific Verification Analysis</h4>
-</ul>
-
+<h4 id="scientific-verification-analysis">3.3.3 Scientific Verification Analysis</h4>
 <ul>
 <li><i><b>Proofver: Natural logic theorem proving for fact verification</b></i>, Krishna et al., <img src="https://img.shields.io/badge/TACL-2022-green" alt="TACL Badge"></li>
-<li><i><b>The state of human-centered NLP technology for fact-checking</b></i>, Das et al., <img src="https://img.shields.io/badge/Information processing & management-2023-green" alt="Information processing & management Badge"></li>
+<li><i><b>The state of human-centered NLP technology for fact-checking</b></i>, Das et al., <img src="https://img.shields.io/badge/Information processing \& management-2023-green" alt="Information processing \& management Badge"></li>
 <li><i><b>aedFaCT: Scientific Fact-Checking Made Easier via Semi-Automatic Discovery of Relevant Expert Opinions</b></i>, Altuncu et al., <a href="https://arxiv.org/abs/2305.07796" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>FactKG: Fact verification via reasoning on knowledge graphs</b></i>, Kim et al., <a href="https://arxiv.org/abs/2305.06590" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Fact-checking complex claims with program-guided reasoning</b></i>, Pan et al., <a href="https://arxiv.org/abs/2305.12744" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
@@ -554,9 +528,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?</b></i>, GX-Chen et al., <a href="https://arxiv.org/abs/2505.09614" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<h4 id="theorem-proving">3.3.7 Theorem Proving</h4>
-</ul>
-
+<h4 id="theorem-proving">3.3.4 Theorem Proving</h4>
 <ul>
 <li><i><b>Generative language modeling for automated theorem proving</b></i>, Polu et al., <a href="https://arxiv.org/abs/2009.03393" target="_blank"><img src="https://img.shields.io/badge/arXiv-2020.09-red" alt="arXiv Badge"></a></li>
 <li><i><b>Draft, sketch, and prove: Guiding formal theorem provers with informal proofs</b></i>, Jiang et al., <a href="https://arxiv.org/abs/2210.12283" target="_blank"><img src="https://img.shields.io/badge/arXiv-2022.10-red" alt="arXiv Badge"></a></li>
@@ -580,13 +552,28 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="scientific-experiment-conduction">3.4 Scientific Experiment Conduction</h3>
-<h4 id="experiment-design">3.4.8 Experiment Design</h4>
+<ul>
+<li><i><b>Toward machine learning optimization of experimental design</b></i>, Baydin et al., <img src="https://img.shields.io/badge/Nuclear Physics News-2021-green" alt="Nuclear Physics News Badge"></li>
+<li><i><b>AI-assisted design of experiments at the frontiers of computation: methods and new perspectives</b></i>, Vischia et al., <a href="https://arxiv.org/abs/2501.04448" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
+<li><i><b>AI-Driven Automation Can Become the Foundation of Next-Era Science of Science Research</b></i>, Chen et al., <a href="https://arxiv.org/abs/2505.12039" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>EXP-Bench: Can AI Conduct AI Research Experiments?</b></i>, Kon et al., <a href="https://arxiv.org/abs/2505.24785" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>AI Scientists Fail Without Strong Implementation Capability</b></i>, Zhu et al., <a href="https://arxiv.org/abs/2506.01372" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
+</ul>
+
+<h4 id="experiment-design">3.4.1 Experiment Design</h4>
+<ul>
+<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature Machine Intelligence-2024-green" alt="Nature Machine Intelligence Badge"></li>
+<li><i><b>Sciagents: Automating scientific discovery through multi-agent intelligent graph reasoning</b></i>, Ghafarollahi et al., <a href="https://arxiv.org/abs/2409.05556" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
+<li><i><b>MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration</b></i>, Ni et al., <a href="https://arxiv.org/abs/2411.08063" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
+<li><i><b>AI-assisted design of experiments at the frontiers of computation: methods and new perspectives</b></i>, Vischia et al., <a href="https://arxiv.org/abs/2501.04448" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
+<li><i><b>LUMI-lab: a Foundation Model-Driven Autonomous Platform Enabling Discovery of New Ionizable Lipid Designs for mRNA Delivery</b></i>, Cui et al., <img src="https://img.shields.io/badge/BioRxiv-2025-green" alt="BioRxiv Badge"></li>
+<li><i><b>Towards an AI co-scientist</b></i>, Gottweis et al., <a href="https://arxiv.org/abs/2502.18864" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 </ul>
 
 <b>Semi-Automatic Experiment Design</b>
 <ul>
 <li><i><b>AI-assisted inverse design of sequence-ordered high intrinsic thermal conductivity polymers</b></i>, Huang et al., <img src="https://img.shields.io/badge/Materials Today Physics-2024-green" alt="Materials Today Physics Badge"></li>
-<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature-2024-green" alt="Nature Badge"></li>
+<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature Machine Intelligence-2024-green" alt="Nature Machine Intelligence Badge"></li>
 <li><i><b>Meta-Designing Quantum Experiments with Language Models</b></i>, Arlt et al., <a href="https://arxiv.org/abs/2406.02470" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
 <li><i><b>MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration</b></i>, Ni et al., <a href="https://arxiv.org/abs/2411.08063" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
 <li><i><b>The application of artificial intelligence-assisted technology in cultural and creative product design</b></i>, Liang et al., <img src="https://img.shields.io/badge/Scientific Reports-2024-green" alt="Scientific Reports Badge"></li>
@@ -598,27 +585,16 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Researchagent: Iterative research idea generation over scientific literature with large language models</b></i>, Baek et al., <a href="https://arxiv.org/abs/2404.07738" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>Biodiscoveryagent: An ai agent for designing genetic perturbation experiments</b></i>, Roohani et al., <a href="https://arxiv.org/abs/2405.17631" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>The ai scientist: Towards fully automated open-ended scientific discovery</b></i>, Lu et al., <a href="https://arxiv.org/abs/2408.06292" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.08-red" alt="arXiv Badge"></a></li>
-<li><i><b>The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation</b></i>, Swanson et al., <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv Badge"></li>
 <li><i><b>Large Language Model Assisted Experiment Design with Generative Human-Behavior Agents</b></i>, Liu et al., <img src="https://img.shields.io/badge/Other Source-2024.12-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Agent laboratory: Using llm agents as research assistants</b></i>, Schmidgall et al., <a href="https://arxiv.org/abs/2501.04227" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>Carl Technical Report</b></i>, Institute et al., <a href="https://drive.google.com/file/d/1iVedOdZDuEdjS4lcm9Z7i8oEDGWfzVJq/view" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.03-blue" alt="PDF Badge"></a></li>
 <li><i><b>Zochi Technical Report</b></i>, AI et al., <a href="https://github.com/IntologyAI/Zochi/blob/main/Zochi_Technical_Report.pdf" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.03-blue" alt="PDF Badge"></a></li>
 <li><i><b>AgentRxiv: Towards Collaborative Autonomous Research</b></i>, Schmidgall et al., <a href="https://arxiv.org/abs/2503.18102" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>Robin: A multi-agent system for automating scientific discovery</b></i>, Ghareeb et al., <a href="https://arxiv.org/abs/2505.13400" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies</b></i>, Swanson et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
 </ul>
 
-<ul>
-<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature-2024-green" alt="Nature Badge"></li>
-<li><i><b>Sciagents: Automating scientific discovery through multi-agent intelligent graph reasoning</b></i>, Ghafarollahi et al., <a href="https://arxiv.org/abs/2409.05556" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
-<li><i><b>MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration</b></i>, Ni et al., <a href="https://arxiv.org/abs/2411.08063" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
-<li><i><b>AI-assisted design of experiments at the frontiers of computation: methods and new perspectives</b></i>, Vischia et al., <a href="https://arxiv.org/abs/2501.04448" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
-<li><i><b>LUMI-lab: a Foundation Model-Driven Autonomous Platform Enabling Discovery of New Ionizable Lipid Designs for mRNA Delivery</b></i>, Cui et al., <img src="https://img.shields.io/badge/BioRxiv-2025-green" alt="BioRxiv Badge"></li>
-<li><i><b>Towards an AI co-scientist</b></i>, Gottweis et al., <a href="https://arxiv.org/abs/2502.18864" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
-</ul>
-
-<h4 id="pre-experiment-estimation">3.4.9 Pre-Experiment Estimation</h4>
-</ul>
-
+<h4 id="pre-experiment-estimation">3.4.2 Pre-Experiment Estimation</h4>
 <b>Evaluative Prediction</b>
 <ul>
 <li><i><b>DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation</b></i>, Wu et al., <a href="https://arxiv.org/abs/2403.03768" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.03-red" alt="arXiv Badge"></a></li>
@@ -635,15 +611,27 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Automatic chemical design using a data-driven continuous representation of molecules</b></i>, G{\'o}mez-Bombarelli et al., <img src="https://img.shields.io/badge/ACS central science-2018-green" alt="ACS central science Badge"></li>
 <li><i><b>MolGAN: An implicit generative model for small molecular graphs</b></i>, De Cao et al., <a href="https://arxiv.org/abs/1805.11973" target="_blank"><img src="https://img.shields.io/badge/arXiv-2018.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Google DeepMind's AI Dreamed Up 380,000 New Materials. The Next Challenge Is Making Them</b></i>, Barber et al., <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/" target="_blank"><img src="https://img.shields.io/badge/PDF-2023.11-blue" alt="PDF Badge"></a></li>
-<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature-2024-green" alt="Nature Badge"></li>
+<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature Machine Intelligence-2024-green" alt="Nature Machine Intelligence Badge"></li>
 <li><i><b>MASSW: A new dataset and benchmark tasks for ai-assisted scientific workflows</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2406.06357" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
-<li><i><b>The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation</b></i>, Swanson et al., <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv Badge"></li>
 <li><i><b>Towards an AI co-scientist</b></i>, Gottweis et al., <a href="https://arxiv.org/abs/2502.18864" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>FlavorDiffusion: Modeling Food-Chemical Interactions with Diffusion</b></i>, Seo et al., <a href="https://aclanthology.org/2025.aisd-main.7/" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.05-blue" alt="PDF Badge"></a></li>
 <li><i><b>MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback</b></i>, Liu et al., <a href="https://arxiv.org/abs/2505.17873" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies</b></i>, Swanson et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
 </ul>
 
-<h4 id="experiment-management">3.4.10 Experiment Management</h4>
+<h4 id="experiment-management">3.4.3 Experiment Management</h4>
+<ul>
+<li><i><b>Transforming science labs into automated factories of discovery</b></i>, Angelopoulos et al., <img src="https://img.shields.io/badge/Science Robotics-2024-green" alt="Science Robotics Badge"></li>
+<li><i><b>Development of an Automated Workflow for Screening the Assembly and Host--Guest Behavior of Metal-Organic Cages Towards Accelerated Discovery</b></i>, Basford et al., <img src="https://img.shields.io/badge/Angewandte Chemie International Edition-2024-green" alt="Angewandte Chemie International Edition Badge"></li>
+<li><i><b>AI Driven Experiment Calibration and Control</b></i>, Britton et al., <img src="https://img.shields.io/badge/Other Source-2024.05-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Agents for self-driving laboratories applied to quantum computing</b></i>, Cao et al., <a href="https://arxiv.org/abs/2412.07978" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
+<li><i><b>Intelligent experiments through real-time AI: Fast Data Processing and Autonomous Detector Control for sPHENIX and future EIC detectors</b></i>, Kvapil et al., <a href="https://arxiv.org/abs/2501.04845" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
+<li><i><b>Artificial intelligence meets laboratory automation in discovery and synthesis of metal--organic frameworks: A review</b></i>, Zhao et al., <img src="https://img.shields.io/badge/Industrial \& Engineering Chemistry Research-2025-green" alt="Industrial \& Engineering Chemistry Research Badge"></li>
+<li><i><b>Agents for Change: Artificial Intelligent Workflows for Quantitative Clinical Pharmacology and Translational Sciences</b></i>, Shahin et al., <img src="https://img.shields.io/badge/Clinical and Translational Science-2025-green" alt="Clinical and Translational Science Badge"></li>
+<li><i><b>Science acceleration and accessibility with self-driving labs</b></i>, Canty et al., <img src="https://img.shields.io/badge/Nature Communications-2025-green" alt="Nature Communications Badge"></li>
+<li><i><b>Accelerating drug discovery with Artificial: a whole-lab orchestration and scheduling system for self-driving labs</b></i>, Fehlis et al., <a href="https://arxiv.org/abs/2504.00986" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
+<li><i><b>Uncovering Bottlenecks and Optimizing Scientific Lab Workflows with Cycle Time Reduction Agents</b></i>, Fehlis et al., <a href="https://arxiv.org/abs/2505.21534" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>Perspective on Utilizing Foundation Models for Laboratory Automation in Materials Research</b></i>, Hatakeyama-Sato et al., <a href="https://arxiv.org/abs/2506.12312" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
 </ul>
 
 <b>Open-Loop Management</b>
@@ -664,25 +652,10 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Self-driving laboratory platform for many-objective self-optimisation of polymer nanoparticle synthesis with cloud-integrated machine learning and orthogonal online analytics</b></i>, Knox et al., <img src="https://img.shields.io/badge/Polymer Chemistry-2025-green" alt="Polymer Chemistry Badge"></li>
 </ul>
 
-<ul>
-<li><i><b>Transforming science labs into automated factories of discovery</b></i>, Angelopoulos et al., <img src="https://img.shields.io/badge/Science Robotics-2024-green" alt="Science Robotics Badge"></li>
-<li><i><b>Development of an Automated Workflow for Screening the Assembly and Host--Guest Behavior of Metal-Organic Cages Towards Accelerated Discovery</b></i>, Basford et al., <img src="https://img.shields.io/badge/Angewandte Chemie International Edition-2024-green" alt="Angewandte Chemie International Edition Badge"></li>
-<li><i><b>AI Driven Experiment Calibration and Control</b></i>, Britton et al., <img src="https://img.shields.io/badge/Other Source-2024.05-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Agents for self-driving laboratories applied to quantum computing</b></i>, Cao et al., <a href="https://arxiv.org/abs/2412.07978" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
-<li><i><b>Intelligent experiments through real-time AI: Fast Data Processing and Autonomous Detector Control for sPHENIX and future EIC detectors</b></i>, Kvapil et al., <a href="https://arxiv.org/abs/2501.04845" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
-<li><i><b>Artificial intelligence meets laboratory automation in discovery and synthesis of metal--organic frameworks: A review</b></i>, Zhao et al., <img src="https://img.shields.io/badge/Other Source-2025.02-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Agents for Change: Artificial Intelligent Workflows for Quantitative Clinical Pharmacology and Translational Sciences</b></i>, Shahin et al., <img src="https://img.shields.io/badge/Clinical and Translational Science-2025-green" alt="Clinical and Translational Science Badge"></li>
-<li><i><b>Science acceleration and accessibility with self-driving labs</b></i>, Canty et al., <img src="https://img.shields.io/badge/Nature Communications-2025-green" alt="Nature Communications Badge"></li>
-<li><i><b>Accelerating drug discovery with Artificial: a whole-lab orchestration and scheduling system for self-driving labs</b></i>, Fehlis et al., <a href="https://arxiv.org/abs/2504.00986" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
-<li><i><b>Uncovering Bottlenecks and Optimizing Scientific Lab Workflows with Cycle Time Reduction Agents</b></i>, Fehlis et al., <a href="https://arxiv.org/abs/2505.21534" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>Perspective on Utilizing Foundation Models for Laboratory Automation in Materials Research</b></i>, Hatakeyama-Sato et al., <a href="https://arxiv.org/abs/2506.12312" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
-</ul>
-
-<h4 id="experimental-conduction">3.4.11 Experimental Conduction</h4>
-</ul>
-
+<h4 id="experiment-conduction">3.4.4 Experiment Conduction</h4>
 <b>Automated Machine Learning Experiment Conduction</b>
 <ul>
+<li><i><b>AutoML for Deep Recommender Systems: A Survey</b></i>, Zheng et al., <a href="https://doi.org/10.1145/3579355" target="_blank"><img src="https://img.shields.io/badge/PDF-2023.03-blue" alt="PDF Badge"></a></li>
 <li><i><b>AIDE: Human-Level Performance on Data Science Competitions</b></i>, Dominik et al., <a href="https://www.weco.ai/blog/technical-report" target="_blank"><img src="https://img.shields.io/badge/PDF-2023.04-blue" alt="PDF Badge"></a></li>
 <li><i><b>Automl-gpt: Automatic machine learning with gpt</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2305.02499" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Automl in the age of large language models: Current challenges, future opportunities and risks</b></i>, Tornede et al., <a href="https://arxiv.org/abs/2306.08107" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.06-red" alt="arXiv Badge"></a></li>
@@ -693,6 +666,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2504.09702" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>AutoReproduce: Automatic AI Experiment Reproduction with Paper Lineage</b></i>, Zhao et al., <a href="https://arxiv.org/abs/2505.20662" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Variable Extraction for Model Recovery in Scientific Literature</b></i>, Liu et al., <a href="https://aclanthology.org/2025.aisd-main.1/" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.05-blue" alt="PDF Badge"></a></li>
+<li><i><b>Language Modeling by Language Models</b></i>, Cheng et al., <a href="https://arxiv.org/abs/2506.20249" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
 <li><i><b>AlphaEvolve: A coding agent for scientific and algorithmic discovery</b></i>, Novikov et al., <img src="https://img.shields.io/badge/Google DeepMind-2025-green" alt="Google DeepMind Badge"></li>
 </ul>
 
@@ -714,7 +688,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Automated social science: Language models as scientist and subjects</b></i>, Manning et al., <img src="https://img.shields.io/badge/Other Source-2024.04-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Crispr-gpt: An llm agent for automated design of gene-editing experiments</b></i>, Huang et al., <a href="https://arxiv.org/abs/2404.18021" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>Position: LLMs can’t plan, but can help planning in LLM-modulo frameworks</b></i>, Kambhampati et al., <img src="https://img.shields.io/badge/ICML-2024-green" alt="ICML Badge"></li>
-<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature-2024-green" alt="Nature Badge"></li>
+<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature Machine Intelligence-2024-green" alt="Nature Machine Intelligence Badge"></li>
 <li><i><b>Mlr-copilot: Autonomous machine learning research based on large language models agents</b></i>, Li et al., <a href="https://arxiv.org/abs/2408.14033" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.08-red" alt="arXiv Badge"></a></li>
 <li><i><b>The ai scientist: Towards fully automated open-ended scientific discovery</b></i>, Lu et al., <a href="https://arxiv.org/abs/2408.06292" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.08-red" alt="arXiv Badge"></a></li>
 <li><i><b>Sciagents: Automating scientific discovery through multi-agent intelligent graph reasoning</b></i>, Ghafarollahi et al., <a href="https://arxiv.org/abs/2409.05556" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
@@ -730,17 +704,15 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective</b></i>, Peng et al., <a href="https://arxiv.org/abs/2503.13413" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>Simulating cooperative prosocial behavior with multi-agent LLMs: Evidence and mechanisms for AI agents to inform policy decisions</b></i>, Sreedhar et al., <img src="https://img.shields.io/badge/Other Source-2025.03-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Reinforcing clinical decision support through multi-agent systems and ethical ai governance</b></i>, Chen et al., <a href="https://arxiv.org/abs/2504.03699" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
-<li><i><b>Foam-Agent: Towards Automated Intelligent CFD Workflows</b></i>, Yue et al., <a href="https://arxiv.org/abs/2505.04997" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>OpenFOAMGPT 2.0: end-to-end, trustworthy automation for computational fluid dynamics</b></i>, Feng et al., <a href="https://arxiv.org/abs/2504.19338" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>Researchcodeagent: An llm multi-agent system for automated codification of research methodologies</b></i>, Gandhi et al., <a href="https://arxiv.org/abs/2504.20117" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>The ai scientist-v2: Workshop-level automated scientific discovery via agentic tree search</b></i>, Yamada et al., <a href="https://arxiv.org/abs/2504.08066" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2504.08621" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
+<li><i><b>Foam-Agent: Towards Automated Intelligent CFD Workflows</b></i>, Yue et al., <a href="https://arxiv.org/abs/2505.04997" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Owl: Optimized workforce learning for general multi-agent assistance in real-world task automation</b></i>, Hu et al., <a href="https://arxiv.org/abs/2505.23885" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<h4 id="experimental-analysis">3.4.12 Experimental Analysis</h4>
-</ul>
-
+<h4 id="experimental-analysis">3.4.5 Experimental Analysis</h4>
 <b>Automated Evaluation Metrics</b>
 <ul>
 <li><i><b>Eight years of AutoML: categorisation, review and trends</b></i>, Barbudo et al., <img src="https://img.shields.io/badge/Knowledge and Information Systems-2023-green" alt="Knowledge and Information Systems Badge"></li>
@@ -762,21 +734,9 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>LLM Based Exploratory Data Analysis Using BigQuery Data Canvas</b></i>, Chaudhuri et al., <a href="https://medium.com/google-cloud/llm-based-exploratory-data-analysis-using-bigquery-data-canvas-42fbecb9f009" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.10-blue" alt="PDF Badge"></a></li>
 </ul>
 
-</ul>
-
-<ul>
-<li><i><b>Toward machine learning optimization of experimental design</b></i>, Baydin et al., <img src="https://img.shields.io/badge/Nuclear Physics News-2021-green" alt="Nuclear Physics News Badge"></li>
-<li><i><b>AI-assisted design of experiments at the frontiers of computation: methods and new perspectives</b></i>, Vischia et al., <a href="https://arxiv.org/abs/2501.04448" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
-<li><i><b>AI-Driven Automation Can Become the Foundation of Next-Era Science of Science Research</b></i>, Chen et al., <a href="https://arxiv.org/abs/2505.12039" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>EXP-Bench: Can AI Conduct AI Research Experiments?</b></i>, Kon et al., <a href="https://arxiv.org/abs/2505.24785" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>AI Scientists Fail Without Strong Implementation Capability</b></i>, Zhu et al., <a href="https://arxiv.org/abs/2506.01372" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
-</ul>
-
 
 
 <h3 id="full-automatic-discovery">3.5 Full-Automatic Discovery</h3>
-</ul>
-
 <ul>
 <li><i><b>The ai scientist: Towards fully automated open-ended scientific discovery</b></i>, Lu et al., <a href="https://arxiv.org/abs/2408.06292" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.08-red" alt="arXiv Badge"></a></li>
 <li><i><b>Aviary: training language agents on challenging scientific tasks</b></i>, Narayanan et al., <a href="https://arxiv.org/abs/2412.21154" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
@@ -790,24 +750,20 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Zochi Technical Report</b></i>, AI et al., <a href="https://github.com/IntologyAI/Zochi/blob/main/Zochi_Technical_Report.pdf" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.03-blue" alt="PDF Badge"></a></li>
 <li><i><b>NovelSeek: When Agent Becomes the Scientist--Building Closed-Loop System from Hypothesis to Verification</b></i>, Team et al., <a href="https://arxiv.org/abs/2505.16938" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists</b></i>, Li et al., <a href="https://arxiv.org/abs/2506.08140" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
-<li><i><b>VISION: A modular AI assistant for natural human-instrument interaction at scientific user facilities</b></i>, Mathur et al., <img src="https://img.shields.io/badge/Other Source-2025.06-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>VISION: A modular AI assistant for natural human-instrument interaction at scientific user facilities</b></i>, Mathur et al., <img src="https://img.shields.io/badge/Machine Learning: Science and Technology-2025-green" alt="Machine Learning: Science and Technology Badge"></li>
 </ul>
 
+<h2 id="ai-for-academic-writing">4. AI for Academic Writing</h2>
+<img src="./assets/images/academic-writing.png" style="width: 580pt"><ul>
+<li><i><b>Using artificial intelligence in academic writing and research: An essential productivity tool</b></i>, Khalifa et al., <img src="https://img.shields.io/badge/Computer Methods and Programs in Biomedicine Update-2024-green" alt="Computer Methods and Programs in Biomedicine Update Badge"></li>
+<li><i><b>Human-LLM Coevolution: Evidence from Academic Writing</b></i>, Geng et al., <a href="https://arxiv.org/abs/2502.09606" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
+<li><i><b>Large language models penetration in scholarly writing and peer review</b></i>, Zhou et al., <a href="https://arxiv.org/abs/2502.11193" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
+<li><i><b>And Plato met ChatGPT: an ethical reflection on the use of chatbots in scientific research writing, with a particular focus on the social sciences</b></i>, Calderon et al., <img src="https://img.shields.io/badge/Humanities and Social Sciences Communications-2025-green" alt="Humanities and Social Sciences Communications Badge"></li>
 </ul>
 
-<ul>
-<li><i><b>Scientific discovery in the age of artificial intelligence</b></i>, Wang et al., <img src="https://img.shields.io/badge/Nature-2023-green" alt="Nature Badge"></li>
-<li><i><b>Beyond Benchmarking: Automated Capability Discovery via Model Self-Exploration</b></i>, Lu et al., <img src="https://img.shields.io/badge/Other Source-2024.10-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>AIRUS: a simple workflow for AI-assisted exploration of scientific data</b></i>, Harris et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
-<li><i><b>On the Rise of New Mathematical Spaces and Towards AI-Driven Scientific Discovery</b></i>, Raeini et al., <img src="https://img.shields.io/badge/Available at SSRN-2025-green" alt="Available at SSRN Badge"></li>
-<li><i><b>From Reasoning to Learning: A Survey on Hypothesis Discovery and Rule Learning with Large Language Models</b></i>, He et al., <a href="https://arxiv.org/abs/2505.21935" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>AI-Driven Discovery: The Transformative Impact of Machine Learning on Research and Development</b></i>, Roy et al., <img src="https://img.shields.io/badge/Other Source-2025.06-lightgrey" alt="Other Source Badge"></li>
-</ul>
-<h2 id="academic-writing">4. AI for Academic Writing</h2>
 
 
 <h3 id="semi-automatic-academic-writing">4.1 Semi-Automatic Academic Writing</h3>
-<img src="./assets/images/academic-writing.png" style="width: 580pt">
 <h4 id="assistance-during-manuscript-preparation">4.1.1 Assistance During Manuscript Preparation</h4>
 <b>Title Formulation and Optimization</b>
 <ul>
@@ -824,6 +780,12 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 </ul>
 
 <h4 id="assistance-during-manuscript-writing">4.1.2 Assistance During Manuscript Writing</h4>
+<ul>
+<li><i><b>Enhancing academic writing skills and motivation: assessing the efficacy of ChatGPT in AI-assisted language learning for EFL students</b></i>, Song et al., <img src="https://img.shields.io/badge/Frontiers in Psychology-2023-green" alt="Frontiers in Psychology Badge"></li>
+<li><i><b>Human-AI collaboration patterns in AI-assisted academic writing</b></i>, Nguyen et al., <img src="https://img.shields.io/badge/Studies in Higher Education-2024-green" alt="Studies in Higher Education Badge"></li>
+<li><i><b>Patterns and Purposes: A Cross-Journal Analysis of AI Tool Usage in Academic Writing</b></i>, Xu et al., <a href="https://arxiv.org/abs/2502.00632" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
+<li><i><b>Divergent llm adoption and heterogeneous convergence paths in research writing</b></i>, Lin et al., <a href="https://arxiv.org/abs/2504.13629" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
+<li><i><b>Artificial intelligence-assisted academic writing: recommendations for ethical use</b></i>, Cheng et al., <img src="https://img.shields.io/badge/Advances in Simulation-2025-green" alt="Advances in Simulation Badge"></li>
 </ul>
 
 <b>Drawing Figures and Charts</b>
@@ -845,6 +807,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Enhancing Chart-to-Code Generation in Multimodal Large Language Models via Iterative Dual Preference Learning</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2504.02906" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>StarVector: Generating scalable vector graphics code from images and text</b></i>, Rodriguez et al., <img src="https://img.shields.io/badge/Other Source-2025.04-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>The ai scientist-v2: Workshop-level automated scientific discovery via agentic tree search</b></i>, Yamada et al., <a href="https://arxiv.org/abs/2504.08066" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
+<li><i><b>SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model</b></i>, Chang et al., <a href="https://arxiv.org/abs/2505.22126" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>How to Create Accurate Scientific Illustrations with AI in 2025</b></i>, Team et al., <a href="https://illustrae.co/blog/how-to-create-accurate-scientific-illustrations-ai" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.05-blue" alt="PDF Badge"></a></li>
 </ul>
 
@@ -870,17 +833,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Towards AI-assisted Academic Writing</b></i>, Liebling et al., <a href="https://aclanthology.org/2025.aisd-main.4/" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.05-blue" alt="PDF Badge"></a></li>
 </ul>
 
-<ul>
-<li><i><b>Enhancing academic writing skills and motivation: assessing the efficacy of ChatGPT in AI-assisted language learning for EFL students</b></i>, Song et al., <img src="https://img.shields.io/badge/Frontiers in Psychology-2023-green" alt="Frontiers in Psychology Badge"></li>
-<li><i><b>Human-AI collaboration patterns in AI-assisted academic writing</b></i>, Nguyen et al., <img src="https://img.shields.io/badge/Studies in Higher Education-2024-green" alt="Studies in Higher Education Badge"></li>
-<li><i><b>Patterns and Purposes: A Cross-Journal Analysis of AI Tool Usage in Academic Writing</b></i>, Xu et al., <a href="https://arxiv.org/abs/2502.00632" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
-<li><i><b>Divergent llm adoption and heterogeneous convergence paths in research writing</b></i>, Lin et al., <a href="https://arxiv.org/abs/2504.13629" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
-<li><i><b>Artificial intelligence-assisted academic writing: recommendations for ethical use</b></i>, Cheng et al., <img src="https://img.shields.io/badge/Advances in Simulation-2025-green" alt="Advances in Simulation Badge"></li>
-</ul>
-
 <h4 id="assistance-after-manuscript-completion">4.1.3 Assistance After Manuscript Completion</h4>
-</ul>
-
 <b>Grammar Correction</b>
 <ul>
 <li><i><b>Csed: A chinese semantic error diagnosis corpus</b></i>, Sun et al., <a href="https://arxiv.org/abs/2305.05183" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
@@ -919,8 +872,6 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="full-automatic-academic-writing">4.2 Full-Automatic Academic Writing</h3>
-</ul>
-
 <ul>
 <li><i><b>The ai scientist: Towards fully automated open-ended scientific discovery</b></i>, Lu et al., <a href="https://arxiv.org/abs/2408.06292" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.08-red" alt="arXiv Badge"></a></li>
 <li><i><b>Agent laboratory: Using llm agents as research assistants</b></i>, Schmidgall et al., <a href="https://arxiv.org/abs/2501.04227" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
@@ -932,19 +883,22 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>The ai scientist-v2: Workshop-level automated scientific discovery via agentic tree search</b></i>, Yamada et al., <a href="https://arxiv.org/abs/2504.08066" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 </ul>
 
+<h2 id="ai-for-academic-peer-reviewing">5. AI for Academic Peer Reviewing</h2>
+<img src="./assets/images/academic-peer-reviewing.png" style="width: 580pt"><ul>
+<li><i><b>Can we automate scientific reviewing?</b></i>, Yuan et al., <img src="https://img.shields.io/badge/Journal of Artificial Intelligence Research-2022-green" alt="Journal of Artificial Intelligence Research Badge"></li>
+<li><i><b>Reviewergpt? an exploratory study on using large language models for paper reviewing</b></i>, Liu et al., <a href="https://arxiv.org/abs/2306.00622" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.06-red" alt="arXiv Badge"></a></li>
+<li><i><b>Unveiling the sentinels: Assessing ai performance in cybersecurity peer review</b></i>, Niu et al., <a href="https://arxiv.org/abs/2309.05457" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.09-red" alt="arXiv Badge"></a></li>
+<li><i><b>Automated scholarly paper review: Concepts, technologies, and challenges</b></i>, Lin et al., <img src="https://img.shields.io/badge/Information fusion-2023-green" alt="Information fusion Badge"></li>
+<li><i><b>What Can Natural Language Processing Do for Peer Review?</b></i>, Kuznetsov et al., <a href="https://arxiv.org/abs/2405.06563" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>Artificial intelligence to support publishing and peer review: A summary and review</b></i>, Kousha et al., <img src="https://img.shields.io/badge/Learned Publishing-2024-green" alt="Learned Publishing Badge"></li>
+<li><i><b>Large language models for automated scholarly paper review: A survey</b></i>, Zhuang et al., <a href="https://arxiv.org/abs/2501.10326" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
+<li><i><b>Evaluating the predictive capacity of ChatGPT for academic peer review outcomes across multiple platforms</b></i>, Thelwall et al., <img src="https://img.shields.io/badge/Scientometrics-2025-green" alt="Scientometrics Badge"></li>
+<li><i><b>A framework for reviewing the results of automated conversion of structured organic synthesis procedures from the literature</b></i>, Machi et al., <img src="https://img.shields.io/badge/Digital Discovery-2025-green" alt="Digital Discovery Badge"></li>
 </ul>
 
-<ul>
-<li><i><b>Using artificial intelligence in academic writing and research: An essential productivity tool</b></i>, Khalifa et al., <img src="https://img.shields.io/badge/Other Source-2024.03-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Human-LLM Coevolution: Evidence from Academic Writing</b></i>, Geng et al., <a href="https://arxiv.org/abs/2502.09606" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
-<li><i><b>Large language models penetration in scholarly writing and peer review</b></i>, Zhou et al., <a href="https://arxiv.org/abs/2502.11193" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
-<li><i><b>And Plato met ChatGPT: an ethical reflection on the use of chatbots in scientific research writing, with a particular focus on the social sciences</b></i>, Calderon et al., <img src="https://img.shields.io/badge/Other Source-2025.05-lightgrey" alt="Other Source Badge"></li>
-</ul>
-<h2 id="academic-peer-reviewing">5. AI for Academic Peer Reviewing</h2>
 
 
 <h3 id="pre-review">5.1 Pre-Review</h3>
-<img src="./assets/images/academic-peer-reviewing.png" style="width: 580pt">
 <h4 id="desk-review">5.1.1 Desk-Review</h4>
 <ul>
 <li><i><b>How to Make Peer Review Recommendations and Decisions</b></i>, Society et al., <a href="https://www.computer.org/publications/making-peer-review-recommendations" target="_blank"><img src="https://img.shields.io/badge/Other Source-.00-lightgrey" alt="Other Source Badge"></a></li>
@@ -952,13 +906,11 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Snapp: Springer Nature's next-generation peer review system</b></i>, Nature et al., <a href="https://www.springernature.com/gp/snapp" target="_blank"><img src="https://img.shields.io/badge/Other Source-2023.12-lightgrey" alt="Other Source Badge"></a></li>
 <li><i><b>Matching papers and reviewers at large conferences</b></i>, Leyton-Brown et al., <img src="https://img.shields.io/badge/Artificial Intelligence-2024-green" alt="Artificial Intelligence Badge"></li>
 <li><i><b>Streamlining the review process: AI-generated annotations in research manuscripts</b></i>, D{\'\i}az et al., <a href="https://arxiv.org/abs/2412.00281" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
-<li><i><b>Artificial intelligence in peer review: enhancing efficiency while preserving integrity</b></i>, Doskaliuk et al., <img src="https://img.shields.io/badge/Other Source-2025.02-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Artificial intelligence in peer review: enhancing efficiency while preserving integrity</b></i>, Doskaliuk et al., <img src="https://img.shields.io/badge/Journal of Korean medical science-2025-green" alt="Journal of Korean medical science Badge"></li>
 <li><i><b>Enhancing Academic Decision-Making: A Pilot Study of AI-Supported Journal Selection in Higher Education</b></i>, Farber et al., <img src="https://img.shields.io/badge/Innovative Higher Education-2025-green" alt="Innovative Higher Education Badge"></li>
 </ul>
 
 <h4 id="reviewer-matching">5.1.2 Reviewer Matching</h4>
-</ul>
-
 <ul>
 <li><i><b>A framework for optimizing paper matching</b></i>, Charlin et al., <img src="https://img.shields.io/badge/UAI-2011-green" alt="UAI Badge"></li>
 <li><i><b>The Toronto paper matching system: an automated paper-reviewer assignment system</b></i>, Charlin et al., <img src="https://img.shields.io/badge/Other Source-2013.05-lightgrey" alt="Other Source Badge"></li>
@@ -973,15 +925,14 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="in-review">5.2 In-Review</h3>
-<h4 id="peer-review">5.2.3 Peer-Review</h4>
-</ul>
-
+<h4 id="peer-review-generation">5.2.1 Peer-Review Generation</h4>
 <b>Score Prediction</b>
 <ul>
-<li><i><b>ALL-IN-ONE: Multi-Task Learning BERT Models for Evaluating Peer Assessments.</b></i>, Jia et al., <img src="https://img.shields.io/badge/Other Source-2021.10-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>ALL-IN-ONE: Multi-Task Learning BERT Models for Evaluating Peer Assessments.</b></i>, Jia et al., <img src="https://img.shields.io/badge/International Educational Data Mining Society-2021-green" alt="International Educational Data Mining Society Badge"></li>
 <li><i><b>The quality assist: A technology-assisted peer review based on citation functions to predict the paper quality</b></i>, Basuki et al., <img src="https://img.shields.io/badge/IEEE Access-2022-green" alt="IEEE Access Badge"></li>
 <li><i><b>Exploiting labeled and unlabeled data via transformer fine-tuning for peer-review score prediction</b></i>, Muangkammuen et al., <img src="https://img.shields.io/badge/EMNLP Findings-2022-green" alt="EMNLP Findings Badge"></li>
 <li><i><b>RelevAI-Reviewer: A Benchmark on AI Reviewers for Survey Paper Relevance</b></i>, Couto et al., <a href="https://arxiv.org/abs/2406.10294" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
+<li><i><b>When Automated Assessment Meets Automated Content Generation: Examining Text Quality in the Era of GPTs</b></i>, Bevilacqua et al., <a href="https://doi.org/10.1145/3702639" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.01-blue" alt="PDF Badge"></a></li>
 </ul>
 
 <b>Comment Generation</b>
@@ -1002,6 +953,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <ul>
 <li><i><b>A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications</b></i>, Kang et al., <img src="https://img.shields.io/badge/NAACL-2018-green" alt="NAACL Badge"></li>
 <li><i><b>Peerassist: leveraging on paper-review interactions to predict peer review decisions</b></i>, Bharti et al., <img src="https://img.shields.io/badge/Other Source-2021.11-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Towards reasoning in large language models via multi-agent peer review collaboration</b></i>, Xu et al., <a href="https://arxiv.org/abs/2311.08152" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.11-red" alt="arXiv Badge"></a></li>
 <li><i><b>Marg: Multi-agent review generation for scientific papers</b></i>, D'Arcy et al., <a href="https://arxiv.org/abs/2401.04259" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>Peer review as a multi-turn and long-context dialogue with role-based interactions</b></i>, Tan et al., <a href="https://arxiv.org/abs/2406.05688" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
 <li><i><b>Automated review generation method based on large language models</b></i>, Wu et al., <a href="https://arxiv.org/abs/2407.20906" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
@@ -1009,7 +961,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>MAMORX: Multi-agent multi-modal scientific review generation with external knowledge</b></i>, Taechoyotin et al., <img src="https://img.shields.io/badge/Other Source-2024.10-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Cycleresearcher: Improving automated research via automated review</b></i>, Weng et al., <a href="https://arxiv.org/abs/2411.00816" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
 <li><i><b>OpenReviewer: A Specialized Large Language Model for Generating Critical Scientific Paper Reviews</b></i>, Idahl et al., <a href="https://arxiv.org/abs/2412.11948" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
-<li><i><b>The role of large language models in the peer-review process: opportunities and challenges for medical journal reviewers and editors</b></i>, Lee et al., <img src="https://img.shields.io/badge/Other Source-2025.01-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>The role of large language models in the peer-review process: opportunities and challenges for medical journal reviewers and editors</b></i>, Lee et al., <img src="https://img.shields.io/badge/Journal of Educational Evaluation for Health Professions-2025-green" alt="Journal of Educational Evaluation for Health Professions Badge"></li>
 <li><i><b>PiCO: Peer Review in LLMs based on Consistency Optimization</b></i>, Ning et al., <a href="https://openreview.net/forum?id=sfQ6XpApfS" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.01-blue" alt="PDF Badge"></a></li>
 <li><i><b>Mind the Blind Spots: A Focus-Level Evaluation Framework for LLM Reviews</b></i>, Shin et al., <a href="https://arxiv.org/abs/2502.17086" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Revieweval: An evaluation framework for ai-generated reviews</b></i>, Kirtani et al., <a href="https://arxiv.org/abs/2502.11736" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
@@ -1019,20 +971,18 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Reviewing Scientific Papers for Critical Problems With Reasoning LLMs: Baseline Approaches and Automatic Evaluation</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2505.23824" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>REMOR: Automated Peer Review Generation with LLM Reasoning and Multi-Objective Reinforcement Learning</b></i>, Taechoyotin et al., <a href="https://arxiv.org/abs/2505.11718" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>TreeReview: A Dynamic Tree of Questions Framework for Deep and Efficient LLM-based Scientific Peer Review</b></i>, Chang et al., <a href="https://arxiv.org/abs/2506.07642" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
-<li><i><b>PaperEval: A universal, quantitative, and explainable paper evaluation method powered by a multi-agent system</b></i>, Huang et al., <img src="https://img.shields.io/badge/Information Processing & Management-2025-green" alt="Information Processing & Management Badge"></li>
+<li><i><b>PaperEval: A universal, quantitative, and explainable paper evaluation method powered by a multi-agent system</b></i>, Huang et al., <img src="https://img.shields.io/badge/Information Processing \& Management-2025-green" alt="Information Processing \& Management Badge"></li>
 </ul>
 
-<h4 id="meta-review">5.2.4 Meta-Review</h4>
-</ul>
-
+<h4 id="meta-review-generation">5.2.2 Meta-Review Generation</h4>
 <ul>
 <li><i><b>Summarizing multiple documents with conversational structure for meta-review generation</b></i>, Li et al., <a href="https://arxiv.org/abs/2305.01498" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Meta-review generation with checklist-guided iterative introspection</b></i>, Zeng et al., <a href="https://arxiv.org/abs/2305.14647" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>When Reviewers Lock Horn: Finding Disagreement in Scientific Peer Reviews</b></i>, Kumar et al., <a href="https://arxiv.org/abs/2310.18685" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>A sentiment consolidation framework for meta-review generation</b></i>, Li et al., <a href="https://arxiv.org/abs/2402.18005" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Prompting LLMs to Compose Meta-Review Drafts from Peer-Review Narratives of Scholarly Manuscripts</b></i>, Santu et al., <a href="https://arxiv.org/abs/2402.15589" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.02-red" alt="arXiv Badge"></a></li>
-<li><i><b>Towards automated meta-review generation via an NLP/ML pipeline in different stages of the scholarly peer review process</b></i>, Kumar et al., <img src="https://img.shields.io/badge/Other Source-2024.04-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Metawriter: Exploring the potential and perils of ai writing support in scientific peer review</b></i>, Sun et al., <img src="https://img.shields.io/badge/Other Source-2024.04-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Towards automated meta-review generation via an NLP/ML pipeline in different stages of the scholarly peer review process</b></i>, Kumar et al., <img src="https://img.shields.io/badge/International Journal on Digital Libraries-2024-green" alt="International Journal on Digital Libraries Badge"></li>
+<li><i><b>Metawriter: Exploring the potential and perils of ai writing support in scientific peer review</b></i>, Sun et al., <img src="https://img.shields.io/badge/Proceedings of the ACM on Human-Computer Interaction-2024-green" alt="Proceedings of the ACM on Human-Computer Interaction Badge"></li>
 <li><i><b>GLIMPSE: Pragmatically Informative Multi-Document Summarization for Scholarly Reviews</b></i>, Darrin et al., <a href="https://arxiv.org/abs/2406.07359" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
 <li><i><b>PeerArg: Argumentative Peer Review with LLMs</b></i>, Sukpanichnant et al., <a href="https://arxiv.org/abs/2409.16813" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
 <li><i><b>Bridging Social Psychology and LLM Reasoning: Conflict-Aware Meta-Review Generation via Cognitive Alignment</b></i>, Chen et al., <a href="https://arxiv.org/abs/2503.13879" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
@@ -1042,23 +992,19 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="post-review">5.3 Post-Review</h3>
-<h4 id="influence-analysis">5.3.5 Influence Analysis</h4>
-</ul>
-
+<h4 id="influence-analysis">5.3.1 Influence Analysis</h4>
 <ul>
-<li><i><b>Popular and/or prestigious? Measures of scholarly esteem</b></i>, Ding et al., <img src="https://img.shields.io/badge/Information processing & management-2011-green" alt="Information processing & management Badge"></li>
-<li><i><b>Measuring academic influence: Not all citations are equal</b></i>, Zhu et al., <img src="https://img.shields.io/badge/Other Source-2015.01-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Popular and/or prestigious? Measures of scholarly esteem</b></i>, Ding et al., <img src="https://img.shields.io/badge/Information processing \& management-2011-green" alt="Information processing \& management Badge"></li>
+<li><i><b>Measuring academic influence: Not all citations are equal</b></i>, Zhu et al., <img src="https://img.shields.io/badge/Journal of the Association for Information Science and Technology-2015-green" alt="Journal of the Association for Information Science and Technology Badge"></li>
 <li><i><b>An overview of microsoft academic service (mas) and applications</b></i>, Sinha et al., <img src="https://img.shields.io/badge/Other Source-2015.05-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Factors affecting number of citations: a comprehensive review of the literature</b></i>, Tahamtan et al., <img src="https://img.shields.io/badge/Scientometrics-2016-green" alt="Scientometrics Badge"></li>
 <li><i><b>Relative citation ratio (RCR): a new metric that uses citation rates to measure influence at the article level</b></i>, Hutchins et al., <img src="https://img.shields.io/badge/PLoS biology-2016-green" alt="PLoS biology Badge"></li>
 <li><i><b>HLM-Cite: Hybrid Language Model Workflow for Text-based Scientific Citation Prediction</b></i>, Hao et al., <a href="https://arxiv.org/abs/2410.09112" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
-<li><i><b>From Words to Worth: Newborn Article Impact Prediction with LLM</b></i>, Zhao et al., <img src="https://img.shields.io/badge/AAAI-2025-green" alt="AAAI Badge"></li>
+<li><i><b>From Words to Worth: Newborn Article Impact Prediction with LLM</b></i>, Zhao et al., <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32106/34261" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.01-blue" alt="PDF Badge"></a></li>
 <li><i><b>Large language models surpass human experts in predicting neuroscience results</b></i>, Luo et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
 </ul>
 
-<h4 id="promotion-enhancement">5.3.6 Promotion Enhancement</h4>
-</ul>
-
+<h4 id="promotion-enhancement">5.3.2 Promotion Enhancement</h4>
 <ul>
 <li><i><b>From complexity to clarity: How AI enhances perceptions of scientists and the public's understanding of science</b></i>, Markowitz et al., <img src="https://img.shields.io/badge/PNAS nexus-2024-green" alt="PNAS nexus Badge"></li>
 <li><i><b>Automatic Evaluation Metrics for Artificially Generated Scientific Research</b></i>, H{\"o}pner et al., <a href="https://arxiv.org/abs/2503.05712" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
@@ -1066,25 +1012,19 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>P2P: Automated Paper-to-Poster Generation and Fine-Grained Benchmark</b></i>, Sun et al., <a href="https://arxiv.org/abs/2505.17104" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
-</ul>
-
-<ul>
-<li><i><b>Can we automate scientific reviewing?</b></i>, Yuan et al., <img src="https://img.shields.io/badge/Other Source-2022.09-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Reviewergpt? an exploratory study on using large language models for paper reviewing</b></i>, Liu et al., <a href="https://arxiv.org/abs/2306.00622" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.06-red" alt="arXiv Badge"></a></li>
-<li><i><b>Unveiling the sentinels: Assessing ai performance in cybersecurity peer review</b></i>, Niu et al., <a href="https://arxiv.org/abs/2309.05457" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.09-red" alt="arXiv Badge"></a></li>
-<li><i><b>Automated scholarly paper review: Concepts, technologies, and challenges</b></i>, Lin et al., <img src="https://img.shields.io/badge/Information fusion-2023-green" alt="Information fusion Badge"></li>
-<li><i><b>What Can Natural Language Processing Do for Peer Review?</b></i>, Kuznetsov et al., <a href="https://arxiv.org/abs/2405.06563" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>Artificial intelligence to support publishing and peer review: A summary and review</b></i>, Kousha et al., <img src="https://img.shields.io/badge/Learned Publishing-2024-green" alt="Learned Publishing Badge"></li>
-<li><i><b>Large language models for automated scholarly paper review: A survey</b></i>, Zhuang et al., <a href="https://arxiv.org/abs/2501.10326" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
-<li><i><b>Evaluating the predictive capacity of ChatGPT for academic peer review outcomes across multiple platforms</b></i>, Thelwall et al., <img src="https://img.shields.io/badge/Scientometrics-2025-green" alt="Scientometrics Badge"></li>
-<li><i><b>A framework for reviewing the results of automated conversion of structured organic synthesis procedures from the literature</b></i>, Machi et al., <img src="https://img.shields.io/badge/Digital Discovery-2025-green" alt="Digital Discovery Badge"></li>
-</ul>
 <h2 id="application">6. Application</h2>
-
+<img src="./assets/images/application.png" style="width: 580pt">
 
 <h3 id="ai-for-natural-science-research">6.1 AI for Natural Science Research</h3>
-<img src="./assets/images/application.png" style="width: 580pt">
 <h4 id="ai-for-physics-research">6.1.1 AI for Physics Research</h4>
+<ul>
+<li><i><b>Colloquium: Machine learning in nuclear physics</b></i>, Boehnlein et al., <img src="https://img.shields.io/badge/Reviews of modern physics-2022-green" alt="Reviews of modern physics Badge"></li>
+<li><i><b>Toward the end-to-end optimization of particle physics instruments with differentiable programming</b></i>, Dorigo et al., <img src="https://img.shields.io/badge/Reviews in Physics-2023-green" alt="Reviews in Physics Badge"></li>
+<li><i><b>AI meets physics: a comprehensive survey</b></i>, Jiao et al., <img src="https://img.shields.io/badge/Artificial Intelligence Review-2024-green" alt="Artificial Intelligence Review Badge"></li>
+<li><i><b>Artificial intelligence for partial differential equations in computational mechanics: A review</b></i>, Wang et al., <a href="https://arxiv.org/abs/2410.19843" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
+<li><i><b>When physics meets machine learning: A survey of physics-informed machine learning</b></i>, Meng et al., <img src="https://img.shields.io/badge/Machine Learning for Computational Science and Engineering-2025-green" alt="Machine Learning for Computational Science and Engineering Badge"></li>
+</ul>
+
 <b>Physical World Simulation</b>
 <ul>
 <li><i><b>Interaction networks for learning about objects, relations and physics</b></i>, Battaglia et al., <img src="https://img.shields.io/badge/NeurIPS-2016-green" alt="NeurIPS Badge"></li>
@@ -1105,15 +1045,26 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>DrSR: LLM based Scientific Equation Discovery with Dual Reasoning from Data and Experience</b></i>, Wang et al., <a href="https://arxiv.org/abs/2506.04282" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<ul>
-<li><i><b>Colloquium: Machine learning in nuclear physics</b></i>, Boehnlein et al., <img src="https://img.shields.io/badge/Reviews of modern physics-2022-green" alt="Reviews of modern physics Badge"></li>
-<li><i><b>Toward the end-to-end optimization of particle physics instruments with differentiable programming</b></i>, Dorigo et al., <img src="https://img.shields.io/badge/Reviews in Physics-2023-green" alt="Reviews in Physics Badge"></li>
-<li><i><b>AI meets physics: a comprehensive survey</b></i>, Jiao et al., <img src="https://img.shields.io/badge/Artificial Intelligence Review-2024-green" alt="Artificial Intelligence Review Badge"></li>
-<li><i><b>Artificial intelligence for partial differential equations in computational mechanics: A review</b></i>, Wang et al., <a href="https://arxiv.org/abs/2410.19843" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
-<li><i><b>When physics meets machine learning: A survey of physics-informed machine learning</b></i>, Meng et al., <img src="https://img.shields.io/badge/Other Source-2025.05-lightgrey" alt="Other Source Badge"></li>
-</ul>
-
 <h4 id="ai-for-biology-medical-research">6.1.2 AI for Biology & Medical Research</h4>
+<ul>
+<li><i><b>Can gpt-4v (ision) serve medical applications? case studies on gpt-4v for multimodal medical diagnosis</b></i>, Wu et al., <a href="https://arxiv.org/abs/2310.09909" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.10-red" alt="arXiv Badge"></a></li>
+<li><i><b>Advancing multimodal medical capabilities of Gemini</b></i>, Yang et al., <a href="https://arxiv.org/abs/2405.03162" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>A survey of generative AI for de novo drug design: new frontiers in molecule and protein generation</b></i>, Tang et al., <img src="https://img.shields.io/badge/Briefings in Bioinformatics-2024-green" alt="Briefings in Bioinformatics Badge"></li>
+<li><i><b>Large language models in plant biology</b></i>, Lam et al., <img src="https://img.shields.io/badge/Trends in Plant Science-2024-green" alt="Trends in Plant Science Badge"></li>
+<li><i><b>A Fuzzy Logic-Based Approach to Predict Human Interaction by Functional Near-Infrared Spectroscopy</b></i>, Jiang et al., <img src="https://img.shields.io/badge/IEEE Transactions on Fuzzy Systems-2025-green" alt="IEEE Transactions on Fuzzy Systems Badge"></li>
+<li><i><b>Human-AI Teaming Using Large Language Models: Boosting Brain-Computer Interfacing (BCI) and Brain Research</b></i>, Kapitonova et al., <a href="https://arxiv.org/abs/2501.01451" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
+<li><i><b>From large language models to multimodal AI: A scoping review on the potential of generative AI in medicine</b></i>, Buess et al., <a href="https://arxiv.org/abs/2502.09242" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
+<li><i><b>A survey of llm-based agents in medicine: How far are we from baymax?</b></i>, Wang et al., <a href="https://arxiv.org/abs/2502.11211" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
+<li><i><b>Large language model for knowledge synthesis and AI-enhanced biomanufacturing</b></i>, Li et al., <img src="https://img.shields.io/badge/Trends in Biotechnology-2025-green" alt="Trends in Biotechnology Badge"></li>
+<li><i><b>Advancing drug discovery and development through GPT models: a review on challenges, innovations and future prospects</b></i>, Othman et al., <img src="https://img.shields.io/badge/Intelligence-Based Medicine-2025-green" alt="Intelligence-Based Medicine Badge"></li>
+<li><i><b>Large Language Models for Zero-shot Inference of Causal Structures in Biology</b></i>, Newsham et al., <a href="https://arxiv.org/abs/2503.04347" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
+<li><i><b>Transforming hematological research documentation with large language models: an approach to scientific writing and data analysis</b></i>, Yang et al., <img src="https://img.shields.io/badge/Blood research-2025-green" alt="Blood research Badge"></li>
+<li><i><b>SpatialAgent: An autonomous AI agent for spatial biology</b></i>, Wang et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
+<li><i><b>A Human-LLM Note-Taking System with Case-Based Reasoning as Framework for Scientific Discovery</b></i>, Craig et al., <a href="https://aclanthology.org/2025.aisd-main.3/" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.05-blue" alt="PDF Badge"></a></li>
+<li><i><b>AI-assisted Drug Re-purposing for Human Liver Fibrosis</b></i>, Guan et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
+<li><i><b>Biomni: A General-Purpose Biomedical AI Agent</b></i>, Huang et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
+<li><i><b>The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies</b></i>, Swanson et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
+<li><i><b>Autonomous LLM-Driven Research—from Data to Human-Verifiable Research Papers</b></i>, Ifargan et al., <img src="https://img.shields.io/badge/NEJM AI-2025-green" alt="NEJM AI Badge"></li>
 </ul>
 
 <b>Protein Discovery.</b>
@@ -1142,7 +1093,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Efficient Fine-Tuning of Single-Cell Foundation Models Enables Zero-Shot Molecular Perturbation Prediction</b></i>, Maleki et al., <a href="https://arxiv.org/abs/2412.13478" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>NeuroDISK: An AI Approach to Automate Continuous Inquiry-Driven Discoveries in Neuroimaging Genetics</b></i>, Garijo et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
 <li><i><b>The rise of agentic AI teammates in medicine</b></i>, Zou et al., <img src="https://img.shields.io/badge/The Lancet-2025-green" alt="The Lancet Badge"></li>
-<li><i><b>Transformers and genome language models</b></i>, Consens et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
+<li><i><b>Transformers and genome language models</b></i>, Consens et al., <img src="https://img.shields.io/badge/Nature Machine Intelligence-2025-green" alt="Nature Machine Intelligence Badge"></li>
 </ul>
 
 <b>Drug Discovery</b>
@@ -1153,7 +1104,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>A survey of generative AI for de novo drug design: new frontiers in molecule and protein generation</b></i>, Tang et al., <img src="https://img.shields.io/badge/Briefings in Bioinformatics-2024-green" alt="Briefings in Bioinformatics Badge"></li>
 <li><i><b>A data science roadmap for open science organizations engaged in early-stage drug discovery</b></i>, Edfeldt et al., <img src="https://img.shields.io/badge/Nature Communications-2024-green" alt="Nature Communications Badge"></li>
 <li><i><b>Drugclip: Contrastive drug-disease interaction for drug repurposing</b></i>, Lu et al., <a href="https://arxiv.org/abs/2407.02265" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
-<li><i><b>Current strategies to address data scarcity in artificial intelligence-based drug discovery: A comprehensive review</b></i>, Gangwal et al., <img src="https://img.shields.io/badge/Other Source-2024.09-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Current strategies to address data scarcity in artificial intelligence-based drug discovery: A comprehensive review</b></i>, Gangwal et al., <img src="https://img.shields.io/badge/Computers in Biology and Medicine-2024-green" alt="Computers in Biology and Medicine Badge"></li>
 <li><i><b>A foundation model for clinician-centered drug repurposing</b></i>, Huang et al., <img src="https://img.shields.io/badge/Nature Medicine-2024-green" alt="Nature Medicine Badge"></li>
 <li><i><b>Drugagent: Automating ai-aided drug discovery programming through llm multi-agent collaboration</b></i>, Liu et al., <a href="https://arxiv.org/abs/2411.15692" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
 <li><i><b>Towards LLM-Driven Multi-Agent Pipeline for Drug Discovery: Neurodegenerative Diseases Case Study</b></i>, Solovev et al., <img src="https://img.shields.io/badge/Other Source-2024.12-lightgrey" alt="Other Source Badge"></li>
@@ -1170,41 +1121,30 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <ul>
 <li><i><b>Large language models encode clinical knowledge</b></i>, Singhal et al., <a href="https://doi.org/10.1038/s41586-023-06291-2" target="_blank"><img src="https://img.shields.io/badge/PDF-2023.08-blue" alt="PDF Badge"></a></li>
 <li><i><b>Can gpt-4v (ision) serve medical applications? case studies on gpt-4v for multimodal medical diagnosis</b></i>, Wu et al., <a href="https://arxiv.org/abs/2310.09909" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.10-red" alt="arXiv Badge"></a></li>
-<li><i><b>Advancing clinical decision support: The role of artificial intelligence across six domains</b></i>, Khalifa et al., <img src="https://img.shields.io/badge/Other Source-2024.02-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Advancing clinical decision support: The role of artificial intelligence across six domains</b></i>, Khalifa et al., <img src="https://img.shields.io/badge/Computer Methods and Programs in Biomedicine Update-2024-green" alt="Computer Methods and Programs in Biomedicine Update Badge"></li>
 <li><i><b>Ai hospital: Benchmarking large language models in a multi-agent medical interaction simulator</b></i>, Fan et al., <a href="https://arxiv.org/abs/2402.09742" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Agent hospital: A simulacrum of hospital with evolvable medical agents</b></i>, Li et al., <a href="https://arxiv.org/abs/2405.02957" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Autonomous Robotic System with Optical Coherence Tomography Guidance for Vascular Anastomosis</b></i>, Haworth et al., <a href="https://arxiv.org/abs/2410.07493" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>Piors: Personalized intelligent outpatient reception based on large language model with multi-agents medical scenario simulation</b></i>, Bao et al., <a href="https://arxiv.org/abs/2411.13902" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
 <li><i><b>Towards an AI co-scientist</b></i>, Gottweis et al., <a href="https://arxiv.org/abs/2502.18864" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
-<li><i><b>Generative Artificial Intelligence in Anatomic Pathology</b></i>, Brodsky et al., <img src="https://img.shields.io/badge/Other Source-2025.04-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Generative Artificial Intelligence in Anatomic Pathology</b></i>, Brodsky et al., <img src="https://img.shields.io/badge/Archives of Pathology \& Laboratory Medicine-2025-green" alt="Archives of Pathology \& Laboratory Medicine Badge"></li>
 <li><i><b>Clinicalgpt-r1: Pushing reasoning capability of generalist disease diagnosis with large language model</b></i>, Lan et al., <a href="https://arxiv.org/abs/2504.09421" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>A Human-LLM Note-Taking System with Case-Based Reasoning as Framework for Scientific Discovery</b></i>, Craig et al., <a href="https://aclanthology.org/2025.aisd-main.3/" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.05-blue" alt="PDF Badge"></a></li>
 <li><i><b>PatientSim: A Persona-Driven Simulator for Realistic Doctor-Patient Interactions</b></i>, Kyung et al., <a href="https://arxiv.org/abs/2505.17818" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>MedSyn: Enhancing Diagnostics with Human-AI Collaboration</b></i>, Sayin et al., <a href="https://arxiv.org/abs/2506.14774" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
 </ul>
 
+<h4 id="ai-for-chemistry-materials-research">6.1.3 AI for Chemistry & Materials Research</h4>
 <ul>
-<li><i><b>Can gpt-4v (ision) serve medical applications? case studies on gpt-4v for multimodal medical diagnosis</b></i>, Wu et al., <a href="https://arxiv.org/abs/2310.09909" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.10-red" alt="arXiv Badge"></a></li>
-<li><i><b>Advancing multimodal medical capabilities of Gemini</b></i>, Yang et al., <a href="https://arxiv.org/abs/2405.03162" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>A survey of generative AI for de novo drug design: new frontiers in molecule and protein generation</b></i>, Tang et al., <img src="https://img.shields.io/badge/Briefings in Bioinformatics-2024-green" alt="Briefings in Bioinformatics Badge"></li>
-<li><i><b>Large language models in plant biology</b></i>, Lam et al., <img src="https://img.shields.io/badge/Trends in Plant Science-2024-green" alt="Trends in Plant Science Badge"></li>
-<li><i><b>The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation</b></i>, Swanson et al., <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv Badge"></li>
-<li><i><b>A Fuzzy Logic-Based Approach to Predict Human Interaction by Functional Near-Infrared Spectroscopy</b></i>, Jiang et al., <img src="https://img.shields.io/badge/Other Source-2025.01-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Human-AI Teaming Using Large Language Models: Boosting Brain-Computer Interfacing (BCI) and Brain Research</b></i>, Kapitonova et al., <a href="https://arxiv.org/abs/2501.01451" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
-<li><i><b>From large language models to multimodal AI: A scoping review on the potential of generative AI in medicine</b></i>, Buess et al., <a href="https://arxiv.org/abs/2502.09242" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
-<li><i><b>A survey of llm-based agents in medicine: How far are we from baymax?</b></i>, Wang et al., <a href="https://arxiv.org/abs/2502.11211" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
-<li><i><b>Large language model for knowledge synthesis and AI-enhanced biomanufacturing</b></i>, Li et al., <img src="https://img.shields.io/badge/Trends in Biotechnology-2025-green" alt="Trends in Biotechnology Badge"></li>
-<li><i><b>Advancing drug discovery and development through GPT models: a review on challenges, innovations and future prospects</b></i>, Othman et al., <img src="https://img.shields.io/badge/Intelligence-Based Medicine-2025-green" alt="Intelligence-Based Medicine Badge"></li>
-<li><i><b>Large Language Models for Zero-shot Inference of Causal Structures in Biology</b></i>, Newsham et al., <a href="https://arxiv.org/abs/2503.04347" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
-<li><i><b>Transforming hematological research documentation with large language models: an approach to scientific writing and data analysis</b></i>, Yang et al., <img src="https://img.shields.io/badge/Blood research-2025-green" alt="Blood research Badge"></li>
-<li><i><b>SpatialAgent: An autonomous AI agent for spatial biology</b></i>, Wang et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
-<li><i><b>A Human-LLM Note-Taking System with Case-Based Reasoning as Framework for Scientific Discovery</b></i>, Craig et al., <a href="https://aclanthology.org/2025.aisd-main.3/" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.05-blue" alt="PDF Badge"></a></li>
-<li><i><b>AI-assisted Drug Re-purposing for Human Liver Fibrosis</b></i>, Guan et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
-<li><i><b>Biomni: A General-Purpose Biomedical AI Agent</b></i>, Huang et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
-<li><i><b>Autonomous LLM-Driven Research—from Data to Human-Verifiable Research Papers</b></i>, Ifargan et al., <img src="https://img.shields.io/badge/NEJM AI-2025-green" alt="NEJM AI Badge"></li>
-</ul>
-
-<h4 id="ai-for-chemistry&-materials-research">6.1.3 AI for Chemistry& Materials Research</h4>
+<li><i><b>Accelerating materials discovery using artificial intelligence, high performance computing and robotics</b></i>, Pyzer-Knapp et al., <img src="https://img.shields.io/badge/npj Computational Materials-2022-green" alt="npj Computational Materials Badge"></li>
+<li><i><b>Accelerating materials language processing with large language models</b></i>, Choi et al., <img src="https://img.shields.io/badge/Communications Materials-2024-green" alt="Communications Materials Badge"></li>
+<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature Machine Intelligence-2024-green" alt="Nature Machine Intelligence Badge"></li>
+<li><i><b>Nano & AI: A Nobel Partnership</b></i>, Chen et al., <img src="https://img.shields.io/badge/ACS nano-2024-green" alt="ACS nano Badge"></li>
+<li><i><b>Simulating 500 million years of evolution with a language model</b></i>, Hayes et al., <img src="https://img.shields.io/badge/Science-2025-green" alt="Science Badge"></li>
+<li><i><b>AI4Materials: Transforming the Landscape of Materials Science and Enigneering</b></i>, Jiang et al., <img src="https://img.shields.io/badge/Review of Materials Research-2025-green" alt="Review of Materials Research Badge"></li>
+<li><i><b>Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry</b></i>, Mroz et al., <img src="https://img.shields.io/badge/Chemical Society Reviews-2025-green" alt="Chemical Society Reviews Badge"></li>
+<li><i><b>Empowering Generalist Material Intelligence with Large Language Models</b></i>, Yuan et al., <img src="https://img.shields.io/badge/Advanced Materials-2025-green" alt="Advanced Materials Badge"></li>
+<li><i><b>From Literature to Lab: Hardware-Independent Autonomous Chemical Synthesis with Reinforcement Learning</b></i>, Wu et al., <img src="https://img.shields.io/badge/Other Source-2025.05-lightgrey" alt="Other Source Badge"></li>
 </ul>
 
 <b>Automatic Analysis</b>
@@ -1223,13 +1163,13 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Chatgpt-Assisted Rational Design for Iterative Performance Optimization of Perovskite Solar Cells</b></i>, Zhang et al., <img src="https://img.shields.io/badge/Available at SSRN 5127472--green" alt="Available at SSRN 5127472 Badge"></li>
 <li><i><b>Machine learning for molecular and materials science</b></i>, Butler et al., <img src="https://img.shields.io/badge/Nature-2018-green" alt="Nature Badge"></li>
 <li><i><b>Scaling deep learning for materials discovery</b></i>, Merchant et al., <img src="https://img.shields.io/badge/Nature-2023-green" alt="Nature Badge"></li>
-<li><i><b>Experimental discovery of novel ammonia synthesis catalysts via active learning</b></i>, Jayarathna et al., <img src="https://img.shields.io/badge/Other Source-2024.02-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Experimental discovery of novel ammonia synthesis catalysts via active learning</b></i>, Jayarathna et al., <img src="https://img.shields.io/badge/Journal of Materials Chemistry A-2024-green" alt="Journal of Materials Chemistry A Badge"></li>
 <li><i><b>A sober look at LLMs for material discovery: Are they actually good for Bayesian optimization over molecules?</b></i>, Kristiadi et al., <a href="https://arxiv.org/abs/2402.05015" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>BatGPT-Chem: A Foundation Large Model For Chemical Engineering</b></i>, Yang et al., <img src="https://img.shields.io/badge/Other Source-2024.04-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>AI-assisted inverse design of sequence-ordered high intrinsic thermal conductivity polymers</b></i>, Huang et al., <img src="https://img.shields.io/badge/Materials Today Physics-2024-green" alt="Materials Today Physics Badge"></li>
 <li><i><b>Real-time experiment-theory closed-loop interaction for autonomous materials science</b></i>, Liang et al., <a href="https://arxiv.org/abs/2410.17430" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>Autonomous mobile robots for exploratory synthetic chemistry</b></i>, Dai et al., <img src="https://img.shields.io/badge/Nature-2024-green" alt="Nature Badge"></li>
-<li><i><b>Machine Learning-Aided Inverse Design and Discovery of Novel Polymeric Materials for Membrane Separation</b></i>, Dangayach et al., <img src="https://img.shields.io/badge/Environmental Science & Technology-2024-green" alt="Environmental Science & Technology Badge"></li>
+<li><i><b>Machine Learning-Aided Inverse Design and Discovery of Novel Polymeric Materials for Membrane Separation</b></i>, Dangayach et al., <img src="https://img.shields.io/badge/Environmental Science \& Technology-2024-green" alt="Environmental Science \& Technology Badge"></li>
 <li><i><b>ORGANA: a robotic assistant for automated chemistry experimentation and characterization</b></i>, Darvish et al., <img src="https://img.shields.io/badge/Matter-2025-green" alt="Matter Badge"></li>
 <li><i><b>Adaptive AI decision interface for autonomous electronic material discovery</b></i>, Dai et al., <a href="https://arxiv.org/abs/2504.13344" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 </ul>
@@ -1242,29 +1182,20 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration</b></i>, Ni et al., <a href="https://arxiv.org/abs/2411.08063" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
 <li><i><b>Autonomous Microscopy Experiments through Large Language Model Agents</b></i>, Mandal et al., <a href="https://arxiv.org/abs/2501.10385" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs</b></i>, Ma et al., <img src="https://img.shields.io/badge/Macromolecular Rapid Communications-2025-green" alt="Macromolecular Rapid Communications Badge"></li>
-<li><i><b>A multiagent-driven robotic ai chemist enabling autonomous chemical research on demand</b></i>, Song et al., <img src="https://img.shields.io/badge/Other Source-2025.03-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>A multiagent-driven robotic ai chemist enabling autonomous chemical research on demand</b></i>, Song et al., <img src="https://img.shields.io/badge/Journal of the American Chemical Society-2025-green" alt="Journal of the American Chemical Society Badge"></li>
 <li><i><b>Agentic Assistant for Material Scientists</b></i>, Feng et al., <img src="https://img.shields.io/badge/Other Source-2025.04-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Physics-informed, dual-objective optimization of high-entropy-alloy nanozymes by a robotic AI chemist</b></i>, Luo et al., <img src="https://img.shields.io/badge/Matter-2025-green" alt="Matter Badge"></li>
 <li><i><b>Intelligent, Personalized Scientific Assistant via Large Language Models for Solid-State Battery Research</b></i>, Leng et al., <img src="https://img.shields.io/badge/ACS Materials Letters-2025-green" alt="ACS Materials Letters Badge"></li>
 <li><i><b>Prim: Principle-inspired material discovery through multi-agent collaboration</b></i>, Lai et al., <a href="https://arxiv.org/abs/2504.08810" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<ul>
-<li><i><b>Accelerating materials discovery using artificial intelligence, high performance computing and robotics</b></i>, Pyzer-Knapp et al., <img src="https://img.shields.io/badge/npj Computational Materials-2022-green" alt="npj Computational Materials Badge"></li>
-<li><i><b>Accelerating materials language processing with large language models</b></i>, Choi et al., <img src="https://img.shields.io/badge/Communications Materials-2024-green" alt="Communications Materials Badge"></li>
-<li><i><b>Augmenting large language models with chemistry tools</b></i>, M. Bran et al., <img src="https://img.shields.io/badge/Nature-2024-green" alt="Nature Badge"></li>
-<li><i><b>Nano & AI: A Nobel Partnership</b></i>, Chen et al., <img src="https://img.shields.io/badge/ACS nano-2024-green" alt="ACS nano Badge"></li>
-<li><i><b>Simulating 500 million years of evolution with a language model</b></i>, Hayes et al., <img src="https://img.shields.io/badge/Science-2025-green" alt="Science Badge"></li>
-<li><i><b>AI4Materials: Transforming the Landscape of Materials Science and Enigneering</b></i>, Jiang et al., <img src="https://img.shields.io/badge/Review of Materials Research-2025-green" alt="Review of Materials Research Badge"></li>
-<li><i><b>Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry</b></i>, Mroz et al., <img src="https://img.shields.io/badge/Chemical Society Reviews-2025-green" alt="Chemical Society Reviews Badge"></li>
-<li><i><b>Empowering Generalist Material Intelligence with Large Language Models</b></i>, Yuan et al., <img src="https://img.shields.io/badge/Advanced Materials-2025-green" alt="Advanced Materials Badge"></li>
-<li><i><b>From Literature to Lab: Hardware-Independent Autonomous Chemical Synthesis with Reinforcement Learning</b></i>, Wu et al., <img src="https://img.shields.io/badge/Other Source-2025.05-lightgrey" alt="Other Source Badge"></li>
-</ul>
-
 
 
 <h3 id="ai-for-applied-science-and-engineering-research">6.2 AI for Applied Science and Engineering Research</h3>
-<h4 id="ai-for-robotics-and-control-research">6.2.4 AI for Robotics and Control Research</h4>
+<h4 id="ai-for-robotics-and-control-research">6.2.1 AI for Robotics and Control Research</h4>
+<ul>
+<li><i><b>The AI CUDA engineer: Agentic CUDA kernel discovery, optimization and composition</b></i>, Lange et al., <img src="https://img.shields.io/badge/Other Source-2025.02-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review</b></i>, Lee et al., <a href="https://arxiv.org/abs/2505.00210" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
 <b>Autonomous Design & Optimization</b>
@@ -1278,9 +1209,9 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 <b>End-to-End Vision-Based Control</b>
 <ul>
-<li><i><b>End-to-end training of deep visuomotor policies</b></i>, Levine et al., <img src="https://img.shields.io/badge/Other Source-2016.04-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>End-to-end training of deep visuomotor policies</b></i>, Levine et al., <img src="https://img.shields.io/badge/Journal of Machine Learning Research-2016-green" alt="Journal of Machine Learning Research Badge"></li>
 <li><i><b>Domain randomization for transferring deep neural networks from simulation to the real world</b></i>, Tobin et al., <img src="https://img.shields.io/badge/Other Source-2017.00-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection</b></i>, Levine et al., <img src="https://img.shields.io/badge/Other Source-2018.06-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection</b></i>, Levine et al., <img src="https://img.shields.io/badge/The International journal of robotics research-2018-green" alt="The International journal of robotics research Badge"></li>
 <li><i><b>Scalable deep reinforcement learning for vision-based robotic manipulation</b></i>, Kalashnikov et al., <img src="https://img.shields.io/badge/Other Source-2018.10-lightgrey" alt="Other Source Badge"></li>
 </ul>
 
@@ -1299,14 +1230,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>NovelSeek: When Agent Becomes the Scientist--Building Closed-Loop System from Hypothesis to Verification</b></i>, Team et al., <a href="https://arxiv.org/abs/2505.16938" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<ul>
-<li><i><b>The AI CUDA engineer: Agentic CUDA kernel discovery, optimization and composition</b></i>, Lange et al., <img src="https://img.shields.io/badge/Other Source-2025.02-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Generative Machine Learning in Adaptive Control of Dynamic Manufacturing Processes: A Review</b></i>, Lee et al., <a href="https://arxiv.org/abs/2505.00210" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
-</ul>
-
-<h4 id="ai-for-software-engineering">6.2.5 AI for Software Engineering</h4>
-</ul>
-
+<h4 id="ai-for-software-engineering">6.2.2 AI for Software Engineering</h4>
 <b>Code Generation</b>
 <ul>
 <li><i><b>Evaluating large language models trained on code</b></i>, Chen et al., <a href="https://arxiv.org/abs/2107.03374" target="_blank"><img src="https://img.shields.io/badge/arXiv-2021.07-red" alt="arXiv Badge"></a></li>
@@ -1334,7 +1258,12 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="ai-for-social-science-research">6.3 AI for Social Science Research</h3>
-<h4 id="ai-for-sociology-research">6.3.6 AI for Sociology Research</h4>
+<h4 id="ai-for-sociology-research">6.3.1 AI for Sociology Research</h4>
+<ul>
+<li><i><b>Ethnography and Machine Learning: Synergies and New Directions</b></i>, Li et al., <a href="https://arxiv.org/abs/2412.06087" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
+<li><i><b>Machine-assisted quantitizing designs: augmenting humanities and social sciences with artificial intelligence</b></i>, Karjus et al., <img src="https://img.shields.io/badge/Humanities and Social Sciences Communications-2025-green" alt="Humanities and Social Sciences Communications Badge"></li>
+<li><i><b>Agent-Enhanced Large Language Models for Researching Political Institutions</b></i>, Loffredo et al., <a href="https://arxiv.org/abs/2503.13524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
+<li><i><b>Reimagining urban science: Scaling causal inference with large language models</b></i>, Xia et al., <a href="https://arxiv.org/abs/2504.12345" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 </ul>
 
 <b>AI-Assisted Experimental and Interview Studies.</b>
@@ -1359,30 +1288,27 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <b>Potential Risks Discussion.</b>
 <ul>
 <li><i><b>Automated social science: Language models as scientist and subjects</b></i>, Manning et al., <img src="https://img.shields.io/badge/Other Source-2024.04-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>ChatGPT as research scientist: probing GPT’s capabilities as a research librarian, research ethicist, data generator, and data predictor</b></i>, Lehr et al., <img src="https://img.shields.io/badge/Other Source-2024.07-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>ChatGPT as research scientist: probing GPT’s capabilities as a research librarian, research ethicist, data generator, and data predictor</b></i>, Lehr et al., <img src="https://img.shields.io/badge/Proceedings of the National Academy of Sciences-2024-green" alt="Proceedings of the National Academy of Sciences Badge"></li>
 <li><i><b>Predicting Results of Social Science Experiments Using Large Language Models</b></i>, Luke et al., <a href="https://samim.io/dl/Predicting%20results%20of%20social%20science%20experiments%20using%20large%20language%20models.pdf" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.08-blue" alt="PDF Badge"></a></li>
 </ul>
 
+<h4 id="ai-for-psychology-research">6.3.2 AI for Psychology Research</h4>
 <ul>
-<li><i><b>Ethnography and Machine Learning: Synergies and New Directions</b></i>, Li et al., <a href="https://arxiv.org/abs/2412.06087" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
-<li><i><b>Machine-assisted quantitizing designs: augmenting humanities and social sciences with artificial intelligence</b></i>, Karjus et al., <img src="https://img.shields.io/badge/Other Source-2025.02-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Agent-Enhanced Large Language Models for Researching Political Institutions</b></i>, Loffredo et al., <a href="https://arxiv.org/abs/2503.13524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
-<li><i><b>Reimagining urban science: Scaling causal inference with large language models</b></i>, Xia et al., <a href="https://arxiv.org/abs/2504.12345" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
-</ul>
-
-<h4 id="ai-for-psychology-research">6.3.7 AI for Psychology Research</h4>
+<li><i><b>Automating psychological hypothesis generation with AI: when large language models meet causal graph</b></i>, Tong et al., <img src="https://img.shields.io/badge/Humanities and Social Sciences Communications-2024-green" alt="Humanities and Social Sciences Communications Badge"></li>
+<li><i><b>Can Large Language Models Understand You Better? An MBTI Personality Detection Dataset Aligned with Population Traits</b></i>, Li et al., <a href="https://arxiv.org/abs/2412.12510" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
+<li><i><b>Human Behavior Simulation: Objectives, Methodologies, and Open Problems</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2412.07788" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
 </ul>
 
 <b>Experiment Workflow Automation and Simulation.</b>
 <ul>
 <li><i><b>Using cognitive psychology to understand GPT-3</b></i>, Binz et al., <a href="http://dx.doi.org/10.1073/pnas.2218523120" target="_blank"><img src="https://img.shields.io/badge/PDF-2023.02-blue" alt="PDF Badge"></a></li>
 <li><i><b>Can AI language models replace human participants?</b></i>, Dillion et al., <a href="https://www.sciencedirect.com/science/article/pii/S1364661323000980" target="_blank"><img src="https://img.shields.io/badge/PDF-2023.07-blue" alt="PDF Badge"></a></li>
-<li><i><b>The emergence of economic rationality of GPT</b></i>, Chen et al., <img src="https://img.shields.io/badge/Other Source-2023.12-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>The emergence of economic rationality of GPT</b></i>, Chen et al., <img src="https://img.shields.io/badge/Proceedings of the National Academy of Sciences-2023-green" alt="Proceedings of the National Academy of Sciences Badge"></li>
 <li><i><b>AI-experiments in education: An AI-driven randomized controlled trial for higher education research</b></i>, Cingillioglu et al., <img src="https://img.shields.io/badge/Education and Information Technologies-2024-green" alt="Education and Information Technologies Badge"></li>
 <li><i><b>RAISE: A New Method to Develop Experimental Stimuli for Advertising Research with Image Generative Artificial Intelligence</b></i>, Zamudio et al., <img src="https://img.shields.io/badge/Journal of Advertising-2024-green" alt="Journal of Advertising Badge"></li>
 <li><i><b>Frontiers: Can Large Language Models Capture Human Preferences?</b></i>, Goli et al., <a href="https://doi.org/10.1287/mksc.2023.0306" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.04-blue" alt="PDF Badge"></a></li>
 <li><i><b>Testing theory of mind in large language models and humans</b></i>, Strachan et al., <a href="https://www.nature.com/articles/s41562-024-01895-1" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.05-blue" alt="PDF Badge"></a></li>
-<li><i><b>Do large language models show decision heuristics similar to humans? A case study using GPT-3.5.</b></i>, Suri et al., <img src="https://img.shields.io/badge/Other Source-2024.05-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Do large language models show decision heuristics similar to humans? A case study using GPT-3.5.</b></i>, Suri et al., <img src="https://img.shields.io/badge/Journal of Experimental Psychology: General-2024-green" alt="Journal of Experimental Psychology: General Badge"></li>
 <li><i><b>Towards a client-centered assessment of llm therapists by client simulation</b></i>, Wang et al., <a href="https://arxiv.org/abs/2406.12266" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
 <li><i><b>Interactive agents: Simulating counselor-client psychological counseling via role-playing llm-to-llm interactions</b></i>, Qiu et al., <a href="https://arxiv.org/abs/2408.15787" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.08-red" alt="arXiv Badge"></a></li>
 <li><i><b>Can AI Replace Human Subjects? A Large-Scale Replication of Psychological Experiments with LLMs</b></i>, Cui et al., <a href="https://arxiv.org/abs/2409.00128" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
@@ -1410,38 +1336,29 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Experiential Narratives in Marketing: A Comparison of Generative AI and Human Content</b></i>, Wen et al., <a href="https://doi.org/10.1177/07439156241297973" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.10-blue" alt="PDF Badge"></a></li>
 </ul>
 
-<ul>
-<li><i><b>Automating psychological hypothesis generation with AI: when large language models meet causal graph</b></i>, Tong et al., <img src="https://img.shields.io/badge/Other Source-2024.07-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Can Large Language Models Understand You Better? An MBTI Personality Detection Dataset Aligned with Population Traits</b></i>, Li et al., <a href="https://arxiv.org/abs/2412.12510" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
-</ul>
 <h2 id="future-and-frontiers">7. Future and Frontiers</h2>
-
 <img src="./assets/images/future.png" style="width: 580pt">
-
-
 
 <h3 id="interdisciplinary-ai-models">7.1 Interdisciplinary AI Models</h3>
 <ul>
 <li><i><b>Artificial intelligence in cancer research: learning at different levels of data granularity</b></i>, Cirillo et al., <img src="https://img.shields.io/badge/Molecular oncology-2021-green" alt="Molecular oncology Badge"></li>
 <li><i><b>Generating full length wikipedia biographies: The impact of gender bias on the retrieval-based generation of women biographies</b></i>, Fan et al., <a href="https://arxiv.org/abs/2204.05879" target="_blank"><img src="https://img.shields.io/badge/arXiv-2022.04-red" alt="arXiv Badge"></a></li>
-<li><i><b>Contrastive knowledge integrated graph neural networks for Chinese medical text classification</b></i>, Lan et al., <img src="https://img.shields.io/badge/Other Source-2023.06-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Contrastive knowledge integrated graph neural networks for Chinese medical text classification</b></i>, Lan et al., <img src="https://img.shields.io/badge/Engineering Applications of Artificial Intelligence-2023-green" alt="Engineering Applications of Artificial Intelligence Badge"></li>
 <li><i><b>Heterogeneous federated learning: State-of-the-art and research challenges</b></i>, Ye et al., <img src="https://img.shields.io/badge/ACM Computing Surveys-2023-green" alt="ACM Computing Surveys Badge"></li>
 <li><i><b>A comprehensive survey of cross-domain policy transfer for embodied agents</b></i>, Niu et al., <a href="https://arxiv.org/abs/2402.04580" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Generation and human-expert evaluation of interesting research ideas using knowledge graphs and large language models</b></i>, Gu et al., <a href="https://arxiv.org/abs/2405.17044" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>A survey of trustworthy representation learning across domains</b></i>, Zhu et al., <img src="https://img.shields.io/badge/Other Source-2024.06-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>A survey of trustworthy representation learning across domains</b></i>, Zhu et al., <img src="https://img.shields.io/badge/ACM Transactions on Knowledge Discovery from Data-2024-green" alt="ACM Transactions on Knowledge Discovery from Data Badge"></li>
 <li><i><b>BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science</b></i>, Lin et al., <a href="https://arxiv.org/abs/2407.00466" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
 <li><i><b>Knowledge transfer for cross-domain reinforcement learning: a systematic review</b></i>, Serrano et al., <img src="https://img.shields.io/badge/IEEE Access-2024-green" alt="IEEE Access Badge"></li>
-<li><i><b>Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning</b></i>, Buehler et al., <img src="https://img.shields.io/badge/Other Source-2024.09-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Accelerating scientific discovery with generative knowledge extraction, graph-based representation, and multimodal intelligent graph reasoning</b></i>, Buehler et al., <img src="https://img.shields.io/badge/Machine Learning: Science and Technology-2024-green" alt="Machine Learning: Science and Technology Badge"></li>
 <li><i><b>Heterogeneous data integration: Challenges and opportunities</b></i>, Putrama et al., <img src="https://img.shields.io/badge/Data in Brief-2024-green" alt="Data in Brief Badge"></li>
-<li><i><b>A comprehensive survey of foundation models in medicine</b></i>, Khan et al., <img src="https://img.shields.io/badge/Other Source-2025.01-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>A comprehensive survey of foundation models in medicine</b></i>, Khan et al., <img src="https://img.shields.io/badge/IEEE Reviews in Biomedical Engineering-2025-green" alt="IEEE Reviews in Biomedical Engineering Badge"></li>
 <li><i><b>Foundation models and intelligent decision-making: Progress, challenges, and perspectives</b></i>, Huang et al., <img src="https://img.shields.io/badge/The Innovation-2025-green" alt="The Innovation Badge"></li>
 </ul>
 
 
 
 <h3 id="ethics-and-safety-in-ai4research">7.2 Ethics and Safety in AI4Research</h3>
-</ul>
-
 <ul>
 <li><i><b>Causal learning for socially responsible AI</b></i>, Cheng et al., <a href="https://arxiv.org/abs/2104.12278" target="_blank"><img src="https://img.shields.io/badge/arXiv-2021.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>Artificial intelligence and ethics: a comprehensive review of bias mitigation, transparency, and accountability in AI Systems</b></i>, Mensah et al., <img src="https://img.shields.io/badge/Preprint, November-2023-green" alt="Preprint, November Badge"></li>
@@ -1456,8 +1373,10 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Are we there yet? revealing the risks of utilizing large language models in scholarly peer review</b></i>, Ye et al., <a href="https://arxiv.org/abs/2412.01708" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>Vulnerability of Text-Matching in ML/AI Conference Reviewer Assignments to Collusions</b></i>, Raghunathan et al., <a href="https://arxiv.org/abs/2412.06606" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>How human--AI feedback loops alter human perceptual, emotional and social judgements</b></i>, Glickman et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
+<li><i><b>AI-generated literature reviews threaten scientific progress</b></i>, Cheng et al., <img src="https://img.shields.io/badge/Nature-2025-green" alt="Nature Badge"></li>
+<li><i><b>A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions</b></i>, Huang et al., <img src="https://img.shields.io/badge/ACM Transactions on Information Systems-2025-green" alt="ACM Transactions on Information Systems Badge"></li>
 <li><i><b>The hidden dimensions of llm alignment: A multi-dimensional safety analysis</b></i>, Pan et al., <a href="https://arxiv.org/abs/2502.09674" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
-<li><i><b>Responsible AI in biotechnology: balancing discovery, innovation and biosecurity risks</b></i>, Wheeler et al., <img src="https://img.shields.io/badge/Other Source-2025.02-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Responsible AI in biotechnology: balancing discovery, innovation and biosecurity risks</b></i>, Wheeler et al., <img src="https://img.shields.io/badge/Frontiers in Bioengineering and Biotechnology-2025-green" alt="Frontiers in Bioengineering and Biotechnology Badge"></li>
 <li><i><b>All that glitters is not novel: Plagiarism in ai generated research</b></i>, Gupta et al., <a href="https://arxiv.org/abs/2502.16487" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Detecting llm-written peer reviews</b></i>, Rao et al., <a href="https://arxiv.org/abs/2503.15772" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>Ethical and bias considerations in artificial intelligence/machine learning</b></i>, Hanna et al., <img src="https://img.shields.io/badge/Modern Pathology-2025-green" alt="Modern Pathology Badge"></li>
@@ -1475,14 +1394,12 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="ai-for-collaborative-research">7.3 AI for Collaborative Research</h3>
-</ul>
-
 <ul>
 <li><i><b>A hybrid approach to privacy-preserving federated learning</b></i>, Truex et al., <img src="https://img.shields.io/badge/Other Source-2019.08-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>A review of applications in federated learning</b></i>, Li et al., <img src="https://img.shields.io/badge/Computers & Industrial Engineering-2020-green" alt="Computers & Industrial Engineering Badge"></li>
+<li><i><b>A review of applications in federated learning</b></i>, Li et al., <img src="https://img.shields.io/badge/Computers \& Industrial Engineering-2020-green" alt="Computers \& Industrial Engineering Badge"></li>
 <li><i><b>A survey on federated learning</b></i>, Zhang et al., <img src="https://img.shields.io/badge/Knowledge-Based Systems-2021-green" alt="Knowledge-Based Systems Badge"></li>
-<li><i><b>A systematic review of federated learning: Challenges, aggregation methods, and development tools</b></i>, Guendouzi et al., <img src="https://img.shields.io/badge/Other Source-2023.11-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Federated learning and data privacy: A review of challenges and opportunities</b></i>, Myakala et al., <img src="https://img.shields.io/badge/Other Source-2024.01-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>A systematic review of federated learning: Challenges, aggregation methods, and development tools</b></i>, Guendouzi et al., <img src="https://img.shields.io/badge/Journal of Network and Computer Applications-2023-green" alt="Journal of Network and Computer Applications Badge"></li>
+<li><i><b>Federated learning and data privacy: A review of challenges and opportunities</b></i>, Myakala et al., <img src="https://img.shields.io/badge/International Journal of Research Publication and Reviews-2024-green" alt="International Journal of Research Publication and Reviews Badge"></li>
 <li><i><b>Designing collaborative intelligence systems for employee-AI service co-production</b></i>, Blaurock et al., <img src="https://img.shields.io/badge/Journal of Service Research-2024-green" alt="Journal of Service Research Badge"></li>
 <li><i><b>Collaborative Intelligence: A scoping review of current applications</b></i>, Schleiger et al., <img src="https://img.shields.io/badge/Applied Artificial Intelligence-2024-green" alt="Applied Artificial Intelligence Badge"></li>
 <li><i><b>Deconstructing Human-AI Collaboration: Agency, Interaction, and Adaptation</b></i>, Holter et al., <img src="https://img.shields.io/badge/Other Source-2024.06-lightgrey" alt="Other Source Badge"></li>
@@ -1501,8 +1418,6 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="explainability-and-transparency-of-ai4research">7.4 Explainability and Transparency of AI4Research</h3>
-</ul>
-
 <ul>
 <li><i><b>On gradient-like explanation under a black-box setting: when black-box explanations become as good as white-box</b></i>, Cai et al., <a href="https://arxiv.org/abs/2308.09381" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.08-red" alt="arXiv Badge"></a></li>
 <li><i><b>Explainable and interpretable artificial intelligence in medicine: a systematic bibliometric review</b></i>, Frasca et al., <img src="https://img.shields.io/badge/Discover Artificial Intelligence-2024-green" alt="Discover Artificial Intelligence Badge"></li>
@@ -1510,18 +1425,17 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Mechanistic Interpretability for AI Safety--A Review</b></i>, Bereska et al., <a href="https://arxiv.org/abs/2404.14082" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>A practical review of mechanistic interpretability for transformer-based language models</b></i>, Rai et al., <a href="https://arxiv.org/abs/2407.02646" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
 <li><i><b>Interpreting black-box models: a review on explainable artificial intelligence</b></i>, Hassija et al., <img src="https://img.shields.io/badge/Cognitive Computation-2024-green" alt="Cognitive Computation Badge"></li>
-<li><i><b>Unlocking the capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought</b></i>, Chen et al., <img src="https://img.shields.io/badge/NeurIPS-2024-green" alt="NeurIPS Badge"></li>
+<li><i><b>Unlocking the capabilities of thought: A reasoning boundary framework to quantify and optimize chain-of-thought</b></i>, Chen et al., <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/62ab1c2cb4b03e717005479efb211841-Abstract-Conference.html" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.09-blue" alt="PDF Badge"></a></li>
 <li><i><b>Explainable AI reloaded: Challenging the xai status quo in the era of large language models</b></i>, Ehsan et al., <img src="https://img.shields.io/badge/Other Source-2024.10-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Beyond principlism: practical strategies for ethical AI use in research practices</b></i>, Lin et al., <img src="https://img.shields.io/badge/AI and Ethics-2024-green" alt="AI and Ethics Badge"></li>
 <li><i><b>ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model</b></i>, Chen et al., <a href="https://arxiv.org/abs/2502.03325" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>RBF++: Quantifying and Optimizing Reasoning Boundaries across Measurable and Unmeasurable Capabilities for Chain-of-Thought Reasoning</b></i>, Chen et al., <a href="https://arxiv.org/abs/2505.13307" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>MedCite: Can Language Models Generate Verifiable Text for Medicine?</b></i>, Wang et al., <a href="https://arxiv.org/abs/2506.06605" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
 </ul>
 
 
 
 <h3 id="ai-for-dynamic-and-real‑time-optimized-scientific-experimentation">7.5 AI for Dynamic and Real‑Time Optimized Scientific Experimentation</h3>
-</ul>
-
 <ul>
 <li><i><b>Tree-planner: Efficient close-loop task planning with large language models</b></i>, Hu et al., <a href="https://arxiv.org/abs/2310.08582" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>Review of low-cost self-driving laboratories in chemistry and materials science: the “frugal twin” concept</b></i>, Lo et al., <img src="https://img.shields.io/badge/Digital Discovery-2024-green" alt="Digital Discovery Badge"></li>
@@ -1536,16 +1450,14 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="multimodal-integration-in-ai4research">7.6 Multimodal Integration in AI4Research</h3>
-</ul>
-
 <ul>
 <li><i><b>Look, read and enrich-learning from scientific figures and their captions</b></i>, Gomez-Perez et al., <img src="https://img.shields.io/badge/Other Source-2019.09-lightgrey" alt="Other Source Badge"></li>
-<li><i><b>Uniter: Universal image-text representation learning</b></i>, Chen et al., <img src="https://img.shields.io/badge/ECCV-2020-green" alt="ECCV Badge"></li>
+<li><i><b>Uniter: Universal image-text representation learning</b></i>, Chen et al., <img src="https://img.shields.io/badge/Other Source-2020.09-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Mixed Large Language Model Signals for Science Question Answering</b></i>, Wang et al., <a href="https://arxiv.org/abs/2305.03453" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Figcaps-hf: A figure-to-caption generative framework and benchmark with human feedback</b></i>, Singh et al., <a href="https://arxiv.org/abs/2307.10867" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.07-red" alt="arXiv Badge"></a></li>
-<li><i><b>M <sup>3</sup> CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought</b></i>, Chen et al., <a href="https://arxiv.org/abs/2405.16473" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Every Part Matters: Integrity Verification of Scientific Figures Based on Multimodal Large Language Models</b></i>, Shi et al., <a href="https://arxiv.org/abs/2407.18626" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
-<li><i><b>S3 agent: Unlocking the power of VLLM for zero-shot multi-modal sarcasm detection</b></i>, Wang et al., <img src="https://img.shields.io/badge/Other Source-2024.08-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought</b></i>, Chen et al., <a href="https://aclanthology.org/2024.acl-long.446/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.08-blue" alt="PDF Badge"></a></li>
+<li><i><b>S3 agent: Unlocking the power of VLLM for zero-shot multi-modal sarcasm detection</b></i>, Wang et al., <img src="https://img.shields.io/badge/ACM Transactions on Multimedia Computing, Communications and Applications-2024-green" alt="ACM Transactions on Multimedia Computing, Communications and Applications Badge"></li>
 <li><i><b>Vlm4bio: A benchmark dataset to evaluate pretrained vision-language models for trait discovery from biological images</b></i>, Maruf et al., <img src="https://img.shields.io/badge/NeurIPS-2024-green" alt="NeurIPS Badge"></li>
 <li><i><b>Model-in-the-Loop (MILO): Accelerating Multimodal AI Data Annotation with LLMs</b></i>, Wang et al., <a href="https://arxiv.org/abs/2409.10702" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
 <li><i><b>What factors affect multi-modal in-context learning? an in-depth exploration</b></i>, Qin et al., <a href="https://arxiv.org/abs/2410.20482" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
@@ -1560,8 +1472,6 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="multilingual-integration-in-ai4research">7.7 Multilingual Integration in AI4Research</h3>
-</ul>
-
 <ul>
 <li><i><b>Languages are still a major barrier to global science</b></i>, Amano et al., <img src="https://img.shields.io/badge/PLoS biology-2016-green" alt="PLoS biology Badge"></li>
 <li><i><b>Unsupervised cross-lingual representation learning at scale</b></i>, Conneau et al., <a href="https://arxiv.org/abs/1911.02116" target="_blank"><img src="https://img.shields.io/badge/arXiv-2019.11-red" alt="arXiv Badge"></a></li>
@@ -1572,39 +1482,40 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Crosslingual capabilities and knowledge barriers in multilingual large language models</b></i>, Chua et al., <a href="https://arxiv.org/abs/2406.16135" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
 <li><i><b>AutoCAP: Towards automatic cross-lingual alignment planning for zero-shot chain-of-thought</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2406.13940" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
 <li><i><b>Rule-based, neural and LLM back-translation: Comparative insights from a variant of Ladin</b></i>, Frontull et al., <a href="https://arxiv.org/abs/2407.08819" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
-<li><i><b>A survey of multilingual large language models</b></i>, Qin et al., <img src="https://img.shields.io/badge/Patterns-2025-green" alt="Patterns Badge"></li>
+<li><i><b>A survey of multilingual large language models</b></i>, Qin et al., <a href="https://www.cell.com/patterns/fulltext/S2666-3899(24)00290-3" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.01-blue" alt="PDF Badge"></a></li>
 <li><i><b>A smack of all neighbouring languages: How multilingual is scholarly communication?</b></i>, Pradier et al., <a href="https://arxiv.org/abs/2504.21100" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>X-WebAgentBench: A Multilingual Interactive Web Benchmark for Evaluating Global Agentic System</b></i>, Wang et al., <a href="https://arxiv.org/abs/2505.15372" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
+
 <h2 id="related-materials">8. Related Materials</h2>
-<img src="./assets/images/related_work.png" style="width: 580pt">
-<ul>
-<li><i><b>AI-powered platform for scientific discovery</b></i>, Trifonov et al., <img src="https://img.shields.io/badge/Other Source-.07-lightgrey" alt="Other Source Badge"></li>
+<img src="./assets/images/related-materials.png" style="width: 580pt"><ul>
 <li><i><b>Hypothesis generation with large language models</b></i>, Zhou et al., <a href="https://arxiv.org/abs/2404.04326" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>Artificial intelligence and scientific discovery: A model of prioritized search</b></i>, Agrawal et al., <img src="https://img.shields.io/badge/Research Policy-2024-green" alt="Research Policy Badge"></li>
 <li><i><b>A comprehensive survey of scientific large language models and their applications in scientific discovery</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2406.10833" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
 <li><i><b>Artificial intelligence for literature reviews: Opportunities and challenges</b></i>, Bolanos et al., <img src="https://img.shields.io/badge/Artificial Intelligence Review-2024-green" alt="Artificial Intelligence Review Badge"></li>
 <li><i><b>Creativity in AI: Progresses and Challenges</b></i>, Ismayilzada et al., <a href="https://arxiv.org/abs/2410.17218" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>LLMs as Research Tools: A Large Scale Survey of Researchers' Usage and Perceptions</b></i>, Liao et al., <a href="https://arxiv.org/abs/2411.05025" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.11-red" alt="arXiv Badge"></a></li>
-<li><i><b>Towards scientific discovery with generative ai: Progress, opportunities, and challenges</b></i>, Reddy et al., <img src="https://img.shields.io/badge/AAAI-2025-green" alt="AAAI Badge"></li>
 <li><i><b>LLM4SR: A Survey on Large Language Models for Scientific Research</b></i>, Luo et al., <a href="https://arxiv.org/abs/2501.04306" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>Large language models for automated scholarly paper review: A survey</b></i>, Zhuang et al., <a href="https://arxiv.org/abs/2501.10326" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models</b></i>, Barman et al., <a href="https://arxiv.org/abs/2501.05382" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a></li>
+<li><i><b>Towards scientific discovery with generative ai: Progress, opportunities, and challenges</b></i>, Reddy et al., <img src="https://img.shields.io/badge/AAAI-2025-green" alt="AAAI Badge"></li>
 <li><i><b>Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation</b></i>, Eger et al., <a href="https://arxiv.org/abs/2502.05151" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Unlocking the Potential of AI Researchers in Scientific Discovery: What Is Missing?</b></i>, Yu et al., <a href="https://arxiv.org/abs/2503.05822" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>A review of llm-assisted ideation</b></i>, Li et al., <a href="https://arxiv.org/abs/2503.00946" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>Towards scientific intelligence: A survey of llm-based scientific agents</b></i>, Ren et al., <a href="https://arxiv.org/abs/2503.24047" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
-<li><i><b>Agentichypothesis: A survey on hypothesis generation using llm systems</b></i>, Bazgir et al., <img src="https://img.shields.io/badge/Other Source-2025.03-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Agentichypothesis: A survey on hypothesis generation using llm systems</b></i>, Bazgir et al., <img src="https://img.shields.io/badge/Towards Agentic AI for Science: Hypothesis Generation, Comprehension, Quantification, and Validation-2025-green" alt="Towards Agentic AI for Science: Hypothesis Generation, Comprehension, Quantification, and Validation Badge"></li>
 <li><i><b>Agentic ai for scientific discovery: A survey of progress, challenges, and future directions</b></i>, Gridach et al., <a href="https://arxiv.org/abs/2503.08979" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models</b></i>, Alkan et al., <a href="https://arxiv.org/abs/2504.05496" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
-<li><i><b>Advancing the Scientific Method with Large Language Models: From Hypothesis to Discovery</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2505.16477" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Scientific hypothesis generation and validation: Methods, datasets, and future directions</b></i>, Kulkarni et al., <a href="https://arxiv.org/abs/2505.04651" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>AI-Driven Automation Can Become the Foundation of Next-Era Science of Science Research</b></i>, Chen et al., <a href="https://arxiv.org/abs/2505.12039" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Towards Agentic AI for Science: Hypothesis Generation, Comprehension, Quantification, and Validation</b></i>, Huang et al., <img src="https://img.shields.io/badge/Other Source-2025.05-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Position: The AI Conference Peer Review Crisis Demands Author Feedback and Reviewer Rewards</b></i>, Kim et al., <a href="https://arxiv.org/abs/2505.04966" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
+<li><i><b>Advancing the Scientific Method with Large Language Models: From Hypothesis to Discovery</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2505.16477" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery</b></i>, Zheng et al., <a href="https://arxiv.org/abs/2505.13259" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>AI Scientists Fail Without Strong Implementation Capability</b></i>, Zhu et al., <a href="https://arxiv.org/abs/2506.01372" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
+<li><i><b>AI-powered platform for scientific discovery</b></i>, Trifonov et al., <img src="https://img.shields.io/badge/Other Source-2025.07-lightgrey" alt="Other Source Badge"></li>
 </ul>
+
 <h2 id="resources">9. Resources</h2>
 
 
@@ -1614,26 +1525,26 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Pubmedqa: A dataset for biomedical research question answering</b></i>, Jin et al., <a href="https://arxiv.org/abs/1909.06146" target="_blank"><img src="https://img.shields.io/badge/arXiv-2019.09-red" alt="arXiv Badge"></a></li>
 <li><i><b>Medmcqa: A large-scale multi-subject multi-choice dataset for medical domain question answering</b></i>, Pal et al., <img src="https://img.shields.io/badge/Other Source-2022.04-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>CoQUAD: a COVID-19 question answering dataset system, facilitating research, benchmarking, and practice</b></i>, Raza et al., <img src="https://img.shields.io/badge/BMC bioinformatics-2022-green" alt="BMC bioinformatics Badge"></li>
-<li><i><b>Scienceqa: A novel resource for question answering on scholarly articles</b></i>, Saikh et al., <img src="https://img.shields.io/badge/Other Source-2022.07-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Scienceqa: A novel resource for question answering on scholarly articles</b></i>, Saikh et al., <img src="https://img.shields.io/badge/International Journal on Digital Libraries-2022-green" alt="International Journal on Digital Libraries Badge"></li>
 <li><i><b>Clam: Selective clarification for ambiguous questions with generative language models</b></i>, Kuhn et al., <a href="https://arxiv.org/abs/2212.07769" target="_blank"><img src="https://img.shields.io/badge/arXiv-2022.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>BioASQ-QA: A manually curated corpus for Biomedical Question Answering</b></i>, Krithara et al., <img src="https://img.shields.io/badge/Scientific Data-2023-green" alt="Scientific Data Badge"></li>
 <li><i><b>The sciqa scientific question answering benchmark for scholarly knowledge</b></i>, Auer et al., <img src="https://img.shields.io/badge/Scientific Reports-2023-green" alt="Scientific Reports Badge"></li>
 <li><i><b>Theoremqa: A theorem-driven question answering dataset</b></i>, Chen et al., <a href="https://arxiv.org/abs/2305.12524" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Scibench: Evaluating college-level scientific problem-solving abilities of large language models</b></i>, Wang et al., <a href="https://arxiv.org/abs/2307.10635" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.07-red" alt="arXiv Badge"></a></li>
-<li><i><b>What if: Generating code to answer simulation questions in chemistry texts</b></i>, Peretz et al., <img src="https://img.shields.io/badge/Other Source-2023.07-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>What if: Generating code to answer simulation questions in chemistry texts</b></i>, Peretz et al., <img src="https://img.shields.io/badge/SIGIR-2023-green" alt="SIGIR Badge"></li>
 <li><i><b>Enabling Language Models to Implicitly Learn Self-Improvement</b></i>, Wang et al., <a href="https://arxiv.org/abs/2310.00898" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>Paperqa: Retrieval-augmented generative agent for scientific research</b></i>, L{\'a}la et al., <a href="https://arxiv.org/abs/2312.07559" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>Sciglm: Training scientific language models with self-reflective instruction annotation and tuning</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2401.07950" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.01-red" alt="arXiv Badge"></a></li>
 <li><i><b>Generating Multiple Choice Questions from Scientific Literature via Large Language Models</b></i>, Luo et al., <img src="https://img.shields.io/badge/Other Source-2024.02-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Biomedlm: A 2.7 b parameter language model trained on biomedical text</b></i>, Bolton et al., <a href="https://arxiv.org/abs/2403.18421" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>SciQAG: A Framework for Auto-Generated Science Question Answering Dataset with Fine-grained Evaluation</b></i>, Wan et al., <a href="https://arxiv.org/abs/2405.09939" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>M <sup>3</sup> CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought</b></i>, Chen et al., <a href="https://arxiv.org/abs/2405.16473" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Scifibench: Benchmarking large multimodal models for scientific figure interpretation</b></i>, Roberts et al., <a href="https://arxiv.org/abs/2405.08807" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Sciknoweval: Evaluating multi-level scientific knowledge of large language models</b></i>, Feng et al., <a href="https://arxiv.org/abs/2406.09098" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.06-red" alt="arXiv Badge"></a></li>
 <li><i><b>BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science</b></i>, Lin et al., <a href="https://arxiv.org/abs/2407.00466" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
 <li><i><b>Scholarchemqa: Unveiling the power of language models in chemical research question answering</b></i>, Chen et al., <a href="https://arxiv.org/abs/2407.16931" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
 <li><i><b>Mmsci: A dataset for graduate-level multi-discipline multimodal scientific understanding</b></i>, Li et al., <a href="https://arxiv.org/abs/2407.04903" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge"></a></li>
 <li><i><b>SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers</b></i>, Pramanick et al., <a href="https://openreview.net/forum?id=h3lddsY5nf" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.07-blue" alt="PDF Badge"></a></li>
+<li><i><b>M<sup>3</sup>CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought</b></i>, Chen et al., <a href="https://aclanthology.org/2024.acl-long.446/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.08-blue" alt="PDF Badge"></a></li>
 <li><i><b>Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models</b></i>, Li et al., <a href="https://aclanthology.org/2024.acl-long.775/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.08-blue" alt="PDF Badge"></a></li>
 <li><i><b>SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark</b></i>, Liang et al., <a href="https://aclanthology.org/2024.acl-short.11/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.08-blue" alt="PDF Badge"></a></li>
 <li><i><b>Language agents achieve superhuman synthesis of scientific knowledge</b></i>, Skarlinski et al., <a href="https://arxiv.org/abs/2409.13740" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
@@ -1653,14 +1564,13 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 </ul>
 
 <h4 id="table-chart-scientific-comprehension">9.1.2 Table & Chart Scientific Comprehension</h4>
-</ul>
-
 <ul>
 <li><i><b>ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning</b></i>, Masry et al., <a href="https://aclanthology.org/2022.findings-acl.177/" target="_blank"><img src="https://img.shields.io/badge/PDF-2022.05-blue" alt="PDF Badge"></a></li>
 <li><i><b>Chartx & chartvlm: A versatile benchmark and foundation model for complicated chart reasoning</b></i>, Xia et al., <a href="https://arxiv.org/abs/2402.12185" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study</b></i>, Sui et al., <a href="https://doi.org/10.1145/3616855.3635752" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.03-blue" alt="PDF Badge"></a></li>
 <li><i><b>NovaChart: A Large-scale Dataset towards Chart Understanding and Generation of Multimodal Large Language Models</b></i>, Hu et al., <a href="https://openreview.net/forum?id=PTYL6011vp" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.10-blue" alt="PDF Badge"></a></li>
 <li><i><b>CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs</b></i>, Wang et al., <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/cdf6f8e9fd9aeaf79b6024caec24f15b-Paper-Datasets_and_Benchmarks_Track.pdf" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.12-blue" alt="PDF Badge"></a></li>
+<li><i><b>Can Multimodal Foundation Models Understand Schematic Diagrams? An Empirical Study on Information-Seeking QA over Scientific Papers</b></i>, Zhao et al., <img src="https://img.shields.io/badge/ACL Findings-2025-green" alt="ACL Findings Badge"></li>
 <li><i><b>The Mighty ToRR: A Benchmark for Table Reasoning and Robustness</b></i>, Ashury-Tahan et al., <a href="https://arxiv.org/abs/2502.19412" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Tablebench: A comprehensive and complex benchmark for table question answering</b></i>, Wu et al., <img src="https://img.shields.io/badge/AAAI-2025-green" alt="AAAI Badge"></li>
 </ul>
@@ -1668,11 +1578,9 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="ai-for-academic-survey">9.2 AI for Academic Survey</h3>
-</ul>
-
 <ul>
 <li><i><b>Ms2: Multi-document summarization of medical studies</b></i>, DeYoung et al., <a href="https://arxiv.org/abs/2104.06486" target="_blank"><img src="https://img.shields.io/badge/arXiv-2021.04-red" alt="arXiv Badge"></a></li>
-<li><i><b>Generating (factual?) narrative summaries of rcts: Experiments with neural multi-document summarization</b></i>, Wallace et al., <img src="https://img.shields.io/badge/Other Source-2021.05-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Generating (factual?) narrative summaries of rcts: Experiments with neural multi-document summarization</b></i>, Wallace et al., <img src="https://img.shields.io/badge/AMIA Summits on Translational Science Proceedings-2021-green" alt="AMIA Summits on Translational Science Proceedings Badge"></li>
 <li><i><b>Overview of MSLR2022: A shared task on multi-document summarization for literature reviews</b></i>, Wang et al., <img src="https://img.shields.io/badge/Other Source-2022.10-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Generating a structured summary of numerous academic papers: Dataset and method</b></i>, Liu et al., <a href="https://arxiv.org/abs/2302.04580" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>SciReviewGen: a large-scale dataset for automatic literature review generation</b></i>, Kasanishi et al., <a href="https://arxiv.org/abs/2305.15186" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a></li>
@@ -1690,15 +1598,14 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="ai-for-scientific-discovery">9.3 AI for Scientific Discovery</h3>
-</ul>
-
 <b>Idea Mining</b>
 <ul>
 <li><i><b>OAG-Bench: A Human-Curated Benchmark for Academic Graph Mining</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2402.15810" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>Can Large Language Models Unlock Novel Scientific Research Ideas?</b></i>, Kumar et al., <a href="https://arxiv.org/abs/2409.06185" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.09-red" alt="arXiv Badge"></a></li>
 <li><i><b>LiveIdeaBench: Evaluating LLMs' Scientific Creativity and Idea Generation with Minimal Context</b></i>, Ruan et al., <a href="https://arxiv.org/abs/2412.17596" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
-<li><i><b>Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses</b></i>, Yang et al., <img src="https://img.shields.io/badge/Other Source-2024.12-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Learning to Generate Research Idea with Dynamic Control</b></i>, Li et al., <a href="https://arxiv.org/abs/2412.14626" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
+<li><i><b>Genome-Bench: A Scientific Reasoning Benchmark from Real-World Expert Discussions</b></i>, Yin et al., <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv Badge"></li>
+<li><i><b>MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses</b></i>, Yang et al., <a href="https://openreview.net/forum?id=X9OfMNNepI" target="_blank"><img src="https://img.shields.io/badge/PDF-2025.01-blue" alt="PDF Badge"></a></li>
 <li><i><b>Structuring Scientific Innovation: A Framework for Modeling and Discovering Impactful Knowledge Combinations</b></i>, Chen et al., <a href="https://arxiv.org/abs/2503.18865" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition</b></i>, Liu et al., <a href="https://arxiv.org/abs/2503.21248" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>Ai idea bench 2025: Ai research idea generation benchmark</b></i>, Qiu et al., <a href="https://arxiv.org/abs/2504.14191" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
@@ -1708,7 +1615,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>CHIMERA: A Knowledge Base of Idea Recombination in Scientific Literature</b></i>, Sternlicht et al., <a href="https://arxiv.org/abs/2505.20779" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<b>Novelty & Significant Assessment</b>
+<b>Novelty & Significant Assesment</b>
 <ul>
 <li><i><b>Blade: Benchmarking language model agents for data-driven science</b></i>, Gu et al., <a href="https://arxiv.org/abs/2408.09667" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.08-red" alt="arXiv Badge"></a></li>
 <li><i><b>Empowering AI as Autonomous Researchers: Evaluating LLMs in Generating Novel Research Ideas through Automated Metrics</b></i>, Dasgupta et al., <img src="https://img.shields.io/badge/Other Source-2024.12-lightgrey" alt="Other Source Badge"></li>
@@ -1732,6 +1639,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Grounding fallacies misrepresenting scientific publications in evidence</b></i>, Glockner et al., <a href="https://arxiv.org/abs/2408.12812" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.08-red" alt="arXiv Badge"></a></li>
 <li><i><b>Augmenting the Veracity and Explanations of Complex Fact Checking via Iterative Self-Revision with LLMs</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2410.15135" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>DEFAME: Dynamic Evidence-based FAct-checking with Multimodal Experts</b></i>, Braun et al., <a href="https://arxiv.org/abs/2412.10510" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
+<li><i><b>SciVer: Evaluating Foundation Models for Multimodal Scientific Claim Verification</b></i>, Wang et al., <img src="https://img.shields.io/badge/ACL-2025-green" alt="ACL Badge"></li>
 <li><i><b>TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding</b></i>, Ku et al., <a href="https://arxiv.org/abs/2502.19400" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
 <li><i><b>BioDSA-1K: Benchmarking Data Science Agents for Biomedical Research</b></i>, Wang et al., <a href="https://arxiv.org/abs/2505.16100" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
@@ -1739,7 +1647,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <b>Experiment Design</b>
 <ul>
 <li><i><b>Benchmarking compound activity prediction for real-world drug discovery applications</b></i>, Tian et al., <img src="https://img.shields.io/badge/Communications Chemistry-2024-green" alt="Communications Chemistry Badge"></li>
-<li><i><b>A bioactivity foundation model using pairwise meta-learning</b></i>, Feng et al., <img src="https://img.shields.io/badge/Nature-2024-green" alt="Nature Badge"></li>
+<li><i><b>A bioactivity foundation model using pairwise meta-learning</b></i>, Feng et al., <img src="https://img.shields.io/badge/Nature Machine Intelligence-2024-green" alt="Nature Machine Intelligence Badge"></li>
 <li><i><b>BioProBench: Comprehensive Dataset and Benchmark in Biological Protocol Understanding and Reasoning</b></i>, Liu et al., <a href="https://arxiv.org/abs/2505.07889" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2506.04078" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
 </ul>
@@ -1760,6 +1668,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research</b></i>, Chen et al., <a href="https://arxiv.org/abs/2505.19955" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Autobio: A simulation and benchmark for robotic automation in digital biology laboratory</b></i>, Lan et al., <a href="https://arxiv.org/abs/2505.14030" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>ResearchCodeBench: Benchmarking LLMs on Implementing Novel Machine Learning Research Code</b></i>, Hua et al., <a href="https://arxiv.org/abs/2506.02314" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.06-red" alt="arXiv Badge"></a></li>
+<li><i><b>SciArena: An Open Evaluation Platform for Foundation Models in Scientific Literature Tasks</b></i>, Zhao et al., <a href="https://arxiv.org/abs/2507.01001" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.07-red" alt="arXiv Badge"></a></li>
 </ul>
 
 <b>Experimental Analysis</b>
@@ -1782,16 +1691,10 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Benchmarking AI scientists in omics data-driven biological research</b></i>, Luo et al., <a href="https://arxiv.org/abs/2505.08341" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
-<ul>
-<li><i><b>ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition</b></i>, Liu et al., <a href="https://arxiv.org/abs/2503.21248" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
-</ul>
-
 
 
 <h3 id="ai-for-academic-writing">9.4 AI for Academic Writing</h3>
-<h4 id="semi-automatic-academic-writing">9.4.3 Semi-Automatic Academic Writing</h4>
-</ul>
-
+<h4 id="semi-automatic-academic-writing">9.4.1 Semi-Automatic Academic Writing</h4>
 <b>Assistance During Manuscript Preparation.</b>
 <ul>
 <li><i><b>LLM-Rubric: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts</b></i>, Hashemi et al., <a href="https://aclanthology.org/2024.acl-long.745/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.08-blue" alt="PDF Badge"></a></li>
@@ -1808,6 +1711,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>TikZero: Zero-Shot Text-Guided Graphics Program Synthesis</b></i>, Belouadi et al., <a href="https://arxiv.org/abs/2503.11509" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>Futuregen: Llm-rag approach to generate the future work of scientific article</b></i>, Azher et al., <a href="https://arxiv.org/abs/2503.16561" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.03-red" alt="arXiv Badge"></a></li>
 <li><i><b>ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations</b></i>, Wang et al., <a href="https://arxiv.org/abs/2504.00824" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
+<li><i><b>SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model</b></i>, Chang et al., <a href="https://arxiv.org/abs/2505.22126" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision</b></i>, Chen et al., <a href="https://arxiv.org/abs/2505.11336" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 </ul>
 
@@ -1825,19 +1729,9 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 
 
 <h3 id="ai-for-academic-peer-reviewing">9.5 AI for Academic Peer Reviewing</h3>
-<h4 id="application-of-ai-for-research">9.5.4 Application of AI for Research</h4>
-</ul>
-
-<ul>
-<li><i><b>Comprehensive inventory of methane emissions from the U.S. oil and gas industry</b></i>, Chen et al., <img src="https://img.shields.io/badge/Science-2022-green" alt="Science Badge"></li>
-<li><i><b>DGPCD: a high-precision point cloud dataset of Dougong in ancient Chinese architecture</b></i>, Wang et al., <img src="https://img.shields.io/badge/Scientific Data-2023-green" alt="Scientific Data Badge"></li>
-</ul>
-
-</ul>
-
 <ul>
 <li><i><b>A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications</b></i>, Kang et al., <img src="https://img.shields.io/badge/NAACL-2018-green" alt="NAACL Badge"></li>
-<li><i><b>Citetracked: A longitudinal dataset of peer reviews and citations</b></i>, Plank et al., <img src="https://img.shields.io/badge/Other Source-2019.07-lightgrey" alt="Other Source Badge"></li>
+<li><i><b>Citetracked: A longitudinal dataset of peer reviews and citations</b></i>, Plank et al., <img src="https://img.shields.io/badge/SIGIR-2019-green" alt="SIGIR Badge"></li>
 <li><i><b>COMPARE: a taxonomy and dataset of comparison discussions in peer reviews</b></i>, Singh et al., <img src="https://img.shields.io/badge/Other Source-2021.08-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>Peer review analyze: A novel benchmark resource for computational analysis of peer reviews</b></i>, Ghosal et al., <img src="https://img.shields.io/badge/Plos one-2022-green" alt="Plos one Badge"></li>
 <li><i><b>Reviewergpt? an exploratory study on using large language models for paper reviewing</b></i>, Liu et al., <a href="https://arxiv.org/abs/2306.00622" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.06-red" alt="arXiv Badge"></a></li>
@@ -1858,6 +1752,7 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>Automatic Large Language Model Evaluation via Peer Review</b></i>, Chu et al., <img src="https://img.shields.io/badge/Other Source-2024.10-lightgrey" alt="Other Source Badge"></li>
 <li><i><b>AAAR-1.0: Assessing AI's Potential to Assist Research</b></i>, Lou et al., <a href="https://arxiv.org/abs/2410.22394" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
 <li><i><b>Is your paper being reviewed by an llm? investigating ai text detectability in peer review</b></i>, Yu et al., <a href="https://arxiv.org/abs/2410.03019" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.10-red" alt="arXiv Badge"></a></li>
+<li><i><b>LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing</b></i>, Du et al., <a href="https://aclanthology.org/2024.emnlp-main.292/" target="_blank"><img src="https://img.shields.io/badge/PDF-2024.11-blue" alt="PDF Badge"></a></li>
 <li><i><b>WithdrarXiv: A Large-Scale Dataset for Retraction Study</b></i>, Rao et al., <a href="https://arxiv.org/abs/2412.03775" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>OpenReviewer: A Specialized Large Language Model for Generating Critical Scientific Paper Reviews</b></i>, Idahl et al., <a href="https://arxiv.org/abs/2412.11948" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a></li>
 <li><i><b>Mind the Blind Spots: A Focus-Level Evaluation Framework for LLM Reviews</b></i>, Shin et al., <a href="https://arxiv.org/abs/2502.17086" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a></li>
@@ -1866,20 +1761,20 @@ Recent advancements in artificial intelligence (AI), particularly in large langu
 <li><i><b>LazyReview A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews</b></i>, Purkayastha et al., <a href="https://arxiv.org/abs/2504.11042" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.04-red" alt="arXiv Badge"></a></li>
 <li><i><b>When AI co-scientists fail: SPOT-a benchmark for automated verification of scientific research</b></i>, Son et al., <a href="https://arxiv.org/abs/2505.11855" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
 <li><i><b>Re <sup>2</sup>: A Consistency-ensured Dataset for Full-stage Peer Review and Multi-turn Rebuttal Discussions</b></i>, Zhang et al., <a href="https://arxiv.org/abs/2505.07920" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.05-red" alt="arXiv Badge"></a></li>
-<li><i><b>PaperEval: A universal, quantitative, and explainable paper evaluation method powered by a multi-agent system</b></i>, Huang et al., <img src="https://img.shields.io/badge/Information Processing & Management-2025-green" alt="Information Processing & Management Badge"></li>
+<li><i><b>PaperEval: A universal, quantitative, and explainable paper evaluation method powered by a multi-agent system</b></i>, Huang et al., <img src="https://img.shields.io/badge/Information Processing \& Management-2025-green" alt="Information Processing \& Management Badge"></li>
 </ul>
+
+
+
 
 ## 🎁 Citation
 If you find this work useful, welcome to cite us.
 ```bib
-@misc{chen2025ai4research,
-      title={AI4Research: A Survey of Artificial Intelligence for Scientific Research}, 
-      author={Qiguang Chen and Mingda Yang, Libo Qin, Zheng Yan, Jiannan Guan, Dengyun Peng, Yiyan Ji, Jinhao Liu, Hanjing Li, Mengkang Hu, Yimeng Zhang, Yihao Liang, Yuhang Zhou, Jiaqi Wang, Zhi Chen, Wanxiang Che},
-      year={2025},
-      eprint={2507.xxxxx},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2507.xxxxx}, 
+@article{chen2025ai4research,
+  title={AI4Research: A Survey of Artificial Intelligence for Scientific Research},
+  author={Chen, Qiguang and Yang, Mingda and Qin, Libo and Liu, Jinhao and Yan, Zheng and Guan, Jiannan and Peng, Dengyun and Ji, Yiyan and Li, Hanjing and Hu, Mengkang and others},
+  journal={arXiv preprint arXiv:2507.01903},
+  year={2025}
 }
 ```
 
